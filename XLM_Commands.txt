@@ -1,0 +1,106 @@
+jbsub -proj wiki_en -out logs/wiki_en.txt -err logs/wiki_en.err  -mem 50G -cores 32+0 -queue x86_24h  ./get-data-wiki.sh en
+
+For XLM_DATA_2
+
+OUTPATH=data/xlm_data_2/80k
+mkdir -p $OUTPATH
+shuf -r -n 10000000 data/xlm_data_2/train.hi.tok >> $OUTPATH/bpe.train
+shuf -r -n 10000000 data/xlm_data_2/train.en.tok >> $OUTPATH/bpe.train
+
+FASTBPE=tools/fastBPE/fast
+$FASTBPE learnbpe 80000 $OUTPATH/bpe.train > $OUTPATH/codes
+
+$FASTBPE applybpe $OUTPATH/bpe.train_bpe $OUTPATH/bpe.train $OUTPATH/codes 
+
+$FASTBPE applybpe $OUTPATH/train.en data/xlm_data_2/train.en.tok $OUTPATH/codes 
+$FASTBPE applybpe $OUTPATH/valid.en data/xlm_data_2/valid.en.tok $OUTPATH/codes 
+$FASTBPE applybpe $OUTPATH/test.en data/xlm_data_2/test.en.tok $OUTPATH/codes 
+
+$FASTBPE applybpe $OUTPATH/train.hi data/xlm_data_2/train.hi.tok $OUTPATH/codes 
+$FASTBPE applybpe $OUTPATH/valid.hi data/xlm_data_2/valid.hi.tok $OUTPATH/codes 
+$FASTBPE applybpe $OUTPATH/test.hi data/xlm_data_2/test.hi.tok $OUTPATH/codes 
+
+
+cat $OUTPATH/bpe.train_bpe | $FASTBPE getvocab - > $OUTPATH/vocab &
+
+
+python preprocess.py $OUTPATH/vocab $OUTPATH/train.en 
+python preprocess.py $OUTPATH/vocab $OUTPATH/valid.en 
+python preprocess.py $OUTPATH/vocab $OUTPATH/test.en 
+
+python preprocess.py $OUTPATH/vocab $OUTPATH/train.hi
+python preprocess.py $OUTPATH/vocab $OUTPATH/valid.hi
+python preprocess.py $OUTPATH/vocab $OUTPATH/test.hi
+
+Vanilla XLM
+
+jbsub -proj xlm -out logs/xlm.txt -err logs/xlm.err -mem 50G -cores 2+1 -require v100 -queue x86_24h python train.py --exp_name xlm_en_hi --dump_path ./dumped/xlm_en_hi --data_path data/xlm_data_2/80k --lgs 'hi-en' --clm_steps ''  --mlm_steps 'hi,en' --emb_dim 512 --n_layers 6 --n_heads 8 --dropout 0.1  --attention_dropout 0.1 --gelu_activation true --batch_size 32 --bptt 256  --optimizer adam,lr=0.0001 --epoch_size 300000 --max_epoch 1000 --validation_metrics _valid_mlm_ppl --stopping_criterion _valid_mlm_ppl,25 --exp_id 6nsi8o87au
+
+python glue-xnli.py --exp_name test_xlm_sst2_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_en_hi/xlm_en_hi/6nsi8o87au/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks SST-2 --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+python glue-xnli.py --exp_name test_xlm_xnli_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_en_hi/xlm_en_hi/6nsi8o87au/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks QNLI --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+XLM LN
+
+jbsub -proj xlm_ln -out logs/xlm_ln.txt -err logs/xlm_ln.err -mem 50G -cores 2+1 -require v100 -queue x86_24h python train.py --exp_name xlm_ln_en_hi --dump_path ./dumped/xlm_ln_en_hi --data_path data/xlm_data_2/80k --lgs 'hi-en' --clm_steps ''  --mlm_steps 'hi,en' --emb_dim 512 --n_layers 6 --n_heads 8 --dropout 0.1  --attention_dropout 0.1 --gelu_activation true --batch_size 32  --bptt 256  --optimizer adam,lr=0.0001 --epoch_size 300000 --max_epoch 500 --validation_metrics _valid_mlm_ppl --stopping_criterion _valid_mlm_ppl,25 --lang_specific_LN True --exp_id ugqcs62lfz
+
+python glue-xnli.py --exp_name test_xlm_ln_sst2_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_ln_en_hi/xlm_ln_en_hi/ugqcs62lfz/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks SST-2 --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+python glue-xnli.py --exp_name test_xlm_ln_xnli_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_ln_en_hi/xlm_ln_en_hi/ugqcs62lfz/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks QNLI --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+
+XLM FFN
+ 
+jbsub -proj xlm_ffn -out logs/xlm_ffn.txt -err logs/xlm_ffn.err -mem 50G -cores 2+1 -require v100 -queue x86_24h python train.py --exp_name xlm_ffn_en_hi --dump_path ./dumped/xlm_ffn_en_hi --data_path data/xlm_data_2/80k --lgs 'hi-en' --clm_steps ''  --mlm_steps 'hi,en' --emb_dim 512 --n_layers 6 --n_heads 8 --dropout 0.1  --attention_dropout 0.1 --gelu_activation true --batch_size 32  --bptt 256  --optimizer adam,lr=0.0001 --epoch_size 300000 --max_epoch 500 --validation_metrics _valid_mlm_ppl --stopping_criterion _valid_mlm_ppl,25 --lang_specific_FFN True --exp_id  wkwsgrc28t
+
+python glue-xnli.py --exp_name test_xlm_ffn_sst2_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_ffn_en_hi/xlm_ffn_en_hi/wkwsgrc28t/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks SST-2 --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+python glue-xnli.py --exp_name test_xlm_ffn_xnli_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_ffn_en_hi/xlm_ffn_en_hi/wkwsgrc28t/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks QNLI --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+XLM ATTN
+
+
+jbsub -proj xlm_attn -out logs/xlm_attn.txt -err logs/xlm_attn.err -mem 50G -cores 2+1 -require v100 -queue x86_24h python train.py --exp_name xlm_attn_en_hi --dump_path ./dumped/xlm_attn_en_hi --data_path data/xlm_data_2/80k --lgs 'hi-en' --clm_steps ''  --mlm_steps 'hi,en' --emb_dim 512 --n_layers 6 --n_heads 8 --dropout 0.1  --attention_dropout 0.1 --gelu_activation true --batch_size 32  --bptt 256  --optimizer adam,lr=0.0001 --epoch_size 300000 --max_epoch 500 --validation_metrics _valid_mlm_ppl --stopping_criterion _valid_mlm_ppl,25 --lang_specific_ATTN True --exp_id t58gqpphia
+
+python glue-xnli.py --exp_name test_xlm_attn_sst2_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_attn_en_hi/xlm_attn_en_hi/t58gqpphia/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks SST-2 --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+python glue-xnli.py --exp_name test_xlm_attn_xnli_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_attn_en_hi/xlm_attn_en_hi/t58gqpphia/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks QNLI --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+XLM ADPT
+
+jbsub -proj xlm_adpt -out logs/xlm_adpt.txt -err logs/xlm_adpt.err -mem 50G -cores 2+1 -require v100 -queue x86_24h python train.py --exp_name xlm_adpt_en_hi --dump_path ./dumped/xlm_adpt_en_hi --data_path data/xlm_data_2/80k --lgs 'hi-en' --clm_steps ''  --mlm_steps 'hi,en' --emb_dim 512 --n_layers 6 --n_heads 8 --dropout 0.1  --attention_dropout 0.1 --gelu_activation true --batch_size 32  --bptt 256  --optimizer adam,lr=0.0001 --epoch_size 300000 --max_epoch 500 --validation_metrics _valid_mlm_ppl --stopping_criterion _valid_mlm_ppl,25 --lang_specific_ADPT True --exp_id 8okd9zlpbt
+
+python glue-xnli.py --exp_name test_xlm_adpt_sst2_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_adpt_en_hi/xlm_adpt_en_hi/8okd9zlpbt/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks SST-2 --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+python glue-xnli.py --exp_name test_xlm_adpt_xnli_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_adpt_en_hi/xlm_adpt_en_hi/8okd9zlpbt/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks QNLI --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+
+
+XLM EN
+
+jbsub -proj xlm_en -out logs/xlm_en.txt -err logs/xlm_en.err -mem 50G -cores 2+1 -require v100 -queue x86_24h python train.py --exp_name xlm_en --dump_path ./dumped/xlm_en --data_path data/xlm_en/80k --lgs 'en' --clm_steps ''  --mlm_steps 'en' --emb_dim 512 --n_layers 6 --n_heads 8 --dropout 0.1  --attention_dropout 0.1 --gelu_activation true --batch_size 32 --bptt 256  --optimizer adam,lr=0.0001 --epoch_size 300000 --max_epoch 500 --validation_metrics _valid_mlm_ppl --stopping_criterion _valid_mlm_ppl,25  --exp_id bbt9kph63r
+
+python glue-xnli.py --exp_name test_xlm_en_sst2_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_en/xlm_en/bbt9kph63r/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks SST-2 --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+python glue-xnli.py --exp_name test_xlm_en_xnli_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_en/xlm_en/bbt9kph63r/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks QNLI --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+
+XLM HI
+
+jbsub -proj xlm_hi -out logs/xlm_hi.txt -err logs/xlm_hi.err -mem 50G -cores 2+1 -require v100 -queue x86_24h python train.py --exp_name xlm_hi --dump_path ./dumped/xlm_hi --data_path data/xlm_hi/80k --lgs 'hi' --clm_steps ''  --mlm_steps 'hi' --emb_dim 512 --n_layers 6 --n_heads 8 --dropout 0.1  --attention_dropout 0.1 --gelu_activation true --batch_size 32 --bptt 256  --optimizer adam,lr=0.0001 --epoch_size 300000 --max_epoch 500 --validation_metrics _valid_mlm_ppl --stopping_criterion _valid_mlm_ppl,25 --exp_id 27b18zgbnt
+
+python glue-xnli.py --exp_name test_xlm_hi_sst2_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_hi/xlm_hi/27b18zgbnt/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks SST-2 --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+python glue-xnli.py --exp_name test_xlm_hi_xnli_gluecos --dump_path ./dumped --model_path /dccstor/cssblr/ashish/AML/XLM/dumped/xlm_hi/xlm_hi/27b18zgbnt/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks QNLI --batch_size 128 --n_epochs 40 --max_len 256 --max_vocab -1 
+
+XLM-R
+
+jbsub -proj test_xlm_sst2_gluecos -out logs/test_xlm_sst2_gluecos.txt -err logs/test_xlm_sst2_gluecos.err -mem 50G -cores 1+1 -require v100 -queue x86_6h python glue-xnli.py --exp_name test_xlm_sst2_gluecos --dump_path ./dumped --model_path ../aml-project/dumped/mlm_17_1280.pth --data_path ../aml-project/gluecos-data/processed/XLMR-17 --transfer_tasks SST-2 --batch_size 16 --n_epochs 10 --max_len 256 --max_vocab 200000
+
+python glue-xnli.py --exp_name test_xlm_sst2_gluecos --dump_path ./dumped --model_path ../aml-project/dumped/mlm_17_1280.pth --data_path ../aml-project/gluecos-data/processed/XLMR-17 --transfer_tasks SST-2 --batch_size 16 --n_epochs 10 --max_len 256 --max_vocab 200000 --optimizer_p adam,lr=0.001
+
+jbsub -proj test_xlm_xnli_gluecos -out logs/test_xlm_xnli_gluecos.txt -err logs/test_xlm_xnli_gluecos.err -mem 50G -cores 1+1 -require v100 -queue x86_6h python glue-xnli.py --exp_name test_xlm_xnli_gluecos --dump_path ./dumped --model_path ../aml-project/dumped/mlm_17_1280.pth --data_path ../aml-project/gluecos-data/processed/XLMR-17 --transfer_tasks QNLI --batch_size 16 --n_epochs 10 --max_len 256 --max_vocab 200000
+
+XLM Meta 
+
+jbsub -proj xlm_adpt_meta -out logs/xlm_adpt_meta.txt -err logs/xlm_adpt_meta.err -mem 50G -cores 2+1 -require v100  -queue x86_24h python train.py --exp_name xlm_meta_en_hi --dump_path ./dumped/xlm_adpt_en_hi --data_path data/xlm_data_2/80k --lgs 'hi-en' --clm_steps ''  --mlm_steps 'hi,en' --emb_dim 512 --n_layers 6 --n_heads 8 --dropout 0.1  --attention_dropout 0.1 --gelu_activation true --batch_size 16  --bptt 256  --optimizer adam,lr=0.0001 --epoch_size 300000 --max_epoch 500 --validation_metrics _valid_mlm_ppl --stopping_criterion _valid_mlm_ppl,25  --do_meta_update true --lang_specific_ADPT true --exp_id djelk743o6

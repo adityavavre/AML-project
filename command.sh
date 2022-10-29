@@ -1,0 +1,1 @@
+python3 glue-xnli.py --exp_name test_xlm_sst2_gluecos --dump_path ./dumped --model_path ../xlm-pretrained/xlm_ffn_en_hi/xlm_ffn_en_hi/wkwsgrc28t/checkpoint.pth --data_path gluecos-data/processed/XLM/ --transfer_tasks SST-2 --batch_size 8 --n_epochs 2 --epoch_size 20000 --max_len 256 --max_vocab -1

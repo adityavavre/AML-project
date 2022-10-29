@@ -1,0 +1,5992 @@
+# sent_enum = 1
+stupid	en	O
+move	en	O
+,	rest	O
+considering	en	O
+their	en	O
+aging	en	O
+population	en	O
+and	en	O
+lack	en	O
+of	en	O
+a	en	O
+manual	en	O
+labor	en	O
+force	en	O
+.	rest	O
+https://t.co/HM6wcLnykD	en	O
+
+# sent_enum = 2
+Post-processing	en	O
+Shaadi	hi	O
+ka	hi	O
+shoot	en	O
+
+# sent_enum = 3
+@Gurmeetramrahim	en	O
+#PiousBhandara	rest	O
+glimpse	en	O
+of	en	O
+pious	en	O
+bhandara	rest	O
+give	en	O
+the	en	O
+source	en	O
+of	en	O
+happiness	en	O
+
+# sent_enum = 4
+RT	en	O
+@AamAadmiParty	en	O
+:	rest	O
+National	en	B-ORGANISATION
+Disciplinary	en	I-ORGANISATION
+Committee	en	I-ORGANISATION
+has	en	O
+expelled	en	O
+Yogendra	en	B-PERSON
+Yadav	rest	I-PERSON
+,	rest	O
+Prashant	en	B-PERSON
+Bhushan	hi	I-PERSON
+,	rest	O
+Prof	en	O
+Anand	en	B-PERSON
+and	en	O
+Ajit	en	B-PERSON
+Jha	hi	I-PERSON
+from	en	O
+AAP	rest	B-ORGANISATION
+.	rest	O
+PR	rest	O
+:	rest	O
+htt	en	O
+
+# sent_enum = 5
+RT	en	O
+@suryatej_borra	en	O
+:	rest	O
+@NavbharatTimes	rest	O
+@dna	rest	O
+@ndtv	en	O
+The	en	O
+press	en	O
+release	en	O
+from	en	O
+@ArtofLivingABC	en	O
+about	en	O
+@SriSri	en	O
+quote	en	O
+.	rest	O
+@DeccanChronicle	en	O
+apologies	en	O
+?	rest	O
+http	en	O
+
+# sent_enum = 6
+Man	en	O
+held	en	O
+for	en	O
+Overseas	en	O
+MBBS	en	O
+Admission	en	O
+Fraud	en	O
+in	en	O
+Salem	en	B-PLACE
+-	rest	O
+Thanthi	hi	B-ORGANISATION
+TV	en	I-ORGANISATION
+-	rest	O
+TamilTwin	en	O
+http://t.co/mZMFZm5oUV	en	O
+
+# sent_enum = 7
+RT	en	O
+@OnlyBabaSehgal	rest	O
+:	rest	O
+bhindi	rest	O
+ka	hi	O
+plural	en	O
+is	en	O
+not	en	O
+bhindis	rest	O
+,	rest	O
+it	en	O
+was	en	O
+absolute	en	O
+luck	en	O
+win	en	O
+for	en	O
+west	en	B-PLACE
+indies	en	I-PLACE
+
+# sent_enum = 8
+Isuzu	en	B-ORGANISATION
+D-Max	en	I-ORGANISATION
+V-Cross	en	I-ORGANISATION
+Launched	en	O
+at	en	O
+Rs	en	O
+.	rest	O
+12.49	rest	O
+Lakh	hi	O
+:	rest	O
+Isuzu	rest	B-ORGANISATION
+D-Max	rest	I-ORGANISATION
+V-Cross	en	I-ORGANISATION
+,	rest	O
+the	hi	O
+Japanese	hi	O
+automaker's	en	O
+'	rest	O
+Adve	en	O
+...	rest	O
+https://t.co/h2Xg0nO6Py	en	O
+via	en	O
+@ndtv	en	O
+
+# sent_enum = 9
+RT	en	O
+@AndhraBoxOffice	en	O
+:	rest	O
+#AAa	rest	O
+Official	en	O
+Trailer	en	O
+||	rest	O
+@actor_nithiin	en	O
+||	rest	O
+Samantha	rest	O
+||	rest	O
+#Trivikram	rest	O
+https://t.co/kJqKowfa2F	rest	O
+
+# sent_enum = 10
+@Stuffcool	en	O
+appoints	en	O
+#LinTeractive	en	O
+as	en	O
+its	en	O
+digital	en	O
+partner	en	O
+|	rest	O
+ET	rest	B-ORGANISATION
+BrandEquity	en	O
+https://t.co/cJvOWQ3540	en	O
+@MLLGroup	en	O
+#Lowe	en	O
+
+# sent_enum = 11
+Kannada	rest	O
+Movie	en	O
+Kotugondu	rest	O
+Love	en	O
+STORY	en	O
+Review	en	O
+http://t.co/eDE965kPod	en	O
+#WIvsZIM	en	O
+#Gayle	en	O
+#WhereIsRahul	en	O
+#Elitei20	rest	O
+
+# sent_enum = 12
+RT	en	O
+@TamalDas8	rest	O
+:	rest	O
+PIB_India	rest	B-ORGANISATION
+#UHF	rest	O
+RT	en	O
+MIB_India	rest	B-ORGANISATION
+:	rest	O
+Initiatives	en	O
+for	en	O
+Skill	en	O
+Development-	en	O
+sureshpprabhu	en	B-PERSON
+#RailBudget2015	en	O
+#	rest	O
+http://t.co/QzVzQnaZNe	en	O
+
+# sent_enum = 13
+#MahaShivratri	rest	O
+Celebrations	en	O
+at	en	O
+Brahma	rest	B-PERSON
+Kumaris	rest	I-PERSON
+shanti	hi	B-PLACE
+sarovar	hi	I-PLACE
+Moderate	en	O
+#traffic	en	O
+at	en	O
+Gachibowli	en	B-PLACE
+@iamKavithaRao	hi	O
+http://t.co/4wnCy8tF7g	en	O
+
+# sent_enum = 14
+NDA	rest	B-ORGANISATION
+govt's	en	O
+redressal	en	O
+mechanism	en	O
+takes	en	O
+the	en	O
+social	en	O
+media	en	O
+route	en	O
+https://t.co/hoZVeSaMOu	en	O
+
+# sent_enum = 15
+Om	rest	O
+namoh	rest	O
+shiva	rest	B-PERSON
+,	rest	O
+Babaji	rest	O
+sab	hi	O
+Ke	hi	O
+sath	hi	O
+mere	hi	O
+sath	hi	O
+thoda	hi	O
+zayada	hi	O
+:-)	rest	O
+wishing	en	O
+all	en	O
+BAM	hi	O
+BHOLE	hi	B-PERSON
+NATH	hi	I-PERSON
+:-)	rest	O
+mahashivratri	rest	O
+ke	hi	O
+badhaiya	hi	O
+:-)	rest	O
+sab	hi	O
+ko	hi	O
+khushi	hi	O
+:-)	rest	O
+
+# sent_enum = 16
+RT	en	O
+@TamalDas8	rest	O
+:	rest	O
+@PIB_India	rest	O
+#UHF	rest	O
+RT	en	O
+@RailMinIndia	rest	O
+:	rest	O
+Full	en	O
+fledged	en	O
+university	en	O
+during	en	O
+2015-15	rest	O
+#RailBudget2015	en	O
+Catch	en	O
+it	en	O
+live	en	O
+https://t.co/f2mWm4UOaw	en	O
+
+# sent_enum = 17
+Fitoor	en	O
+Official	en	O
+Trailer	en	O
+-	rest	O
+Aditya	en	B-PERSON
+Roy	en	I-PERSON
+Kapur	hi	I-PERSON
+-	rest	O
+Katrina	rest	B-PERSON
+Kaif	rest	I-PERSON
+-	rest	O
+Tabu	rest	B-PERSON
+https://t.co/IEUVdGFvYN	en	O
+
+# sent_enum = 18
+@c_aashish	rest	O
+PM	rest	O
+material	en	O
+ho	hi	O
+aap	hi	O
+fir	hi	O
+to	hi	O
+:p	rest	O
+
+# sent_enum = 19
+@Gurmeetramrahim	en	O
+ohhhh	en	O
+superb	en	O
+papa	en	O
+ji	hi	O
+#MSGmissionHumanity	en	O
+
+# sent_enum = 20
+RT	en	O
+@BakarchodBaba	rest	O
+:	rest	O
+Gabbar	hi	B-PERSON
+Khush	hi	O
+Hua	hi	O
+!!!	rest	O
+India	rest	B-PLACE
+wins	en	O
+millions	en	O
+of	en	O
+heart	en	O
+.	rest	O
+#MaukaMauka	rest	O
+#IndvsSA	rest	O
+RT	en	O
+@TaksunT	rest	O
+:	rest	O
+See	en	O
+>	rest	O
+http://t.co/FnAFsuO0r0	rest	O
+
+# sent_enum = 21
+Aakaash	hi	B-PERSON
+:	rest	O
+Oh	en	O
+Boy	en	O
+,	rest	O
+Jason	rest	B-PERSON
+Roy	en	I-PERSON
+...	rest	O
+Jason	rest	B-PERSON
+Roy	en	I-PERSON
+:	rest	O
+Aakaah	hi	B-PERSON
+ChupRe	rest	O
+..	rest	O
+#ENGvNZ	rest	O
+
+# sent_enum = 22
+FM	rest	O
+:	rest	O
+Individual	rest	O
+tax	rest	O
+payer	en	O
+to	en	O
+get	en	O
+benefitted	en	O
+up	en	O
+to	en	O
+Rs	en	O
+4	rest	O
+Lac	rest	O
+#Budget2015	rest	O
+#Moneypalm	en	O
+#UnionBudget2015	en	O
+#SuperBudget	en	O
+
+# sent_enum = 23
+RT	en	O
+@kchowdhury9	en	O
+:	rest	O
+#boycottraees	en	O
+boycott	en	O
+badly	en	O
+#raees	en	O
+
+# sent_enum = 24
+@timesnow	en	O
+its	en	O
+time	en	O
+for	en	O
+modi	rest	B-PERSON
+its	en	O
+time	en	O
+for	en	O
+a	en	O
+rising	en	O
+india	rest	B-PLACE
+.	rest	O
+billion	en	O
+spent	en	O
+upgrading	en	O
+Raiwind	en	B-PLACE
+estate	en	O
+,	rest	O
+...	rest	O
+https://t.co/9038tgHv9U	en	O
+#etribune	rest	O
+
+# sent_enum = 25
+@love_oindrila	rest	O
+Happy	en	O
+MahaShivratri	en	O
+too	en	O
+u	en	O
+di	hi	O
+.	rest	O
+Ankurgee	en	B-PERSON
+:	rest	O
+#RailBudget2015	rest	O
+:	rest	O
+#Visionary	rest	O
+#Realistic	en	O
+#Positive	en	O
+#Practical	en	O
+#Progressive	en	O
+#Inclusive	en	O
+Thank	en	O
+You	en	O
+sureshpprabhu	rest	B-PERSON
+RailMinIndia	rest	B-ORGANISATION
+PMOIndia	rest	B-ORGANISATION
+
+# sent_enum = 26
+Asia	rest	B-PLACE
+cup	en	O
+meim	hi	O
+Pak	hi	B-PLACE
+aur	hi	O
+WT20	rest	O
+mein	hi	O
+InD	rest	O
+will	en	O
+win	en	O
+.	rest	O
+Aesa	hi	O
+ee	hi	O
+hota	hi	O
+aya	hi	O
+hy	hi	O
+
+# sent_enum = 27
+#Mahashivratri	rest	O
+Special	en	O
+Shrimad	en	O
+Bhagavat	hi	O
+Katha	hi	O
+At	en	O
+Dighanchi	hi	B-PLACE
+,	rest	O
+Tal	hi	B-PLACE
+Aatpadi	hi	I-PLACE
+,	rest	O
+Dist	en	O
+Sangali	rest	B-PLACE
+(	rest	O
+MH	rest	O
+)	rest	O
+Date	en	O
+:	rest	O
+11	rest	O
+Feb	en	O
+to	en	O
+17	en	O
+Feb	en	O
+...	rest	O
+http://t.co/izPtyf1TAp	en	O
+
+# sent_enum = 28
+RT	en	O
+@TamalDas8	rest	O
+:	rest	O
+PIB_India	rest	B-ORGANISATION
+#UHF	rest	O
+#RailBudget2015	en	O
+speech	en	O
+of	en	O
+sureshpprabhu	en	B-PERSON
+has	en	O
+come	en	O
+to	en	O
+an	en	O
+end	en	O
+.	rest	O
+
+# sent_enum = 29
+RT	en	O
+@Not_That_Remesh	en	O
+:	rest	O
+PM	rest	O
+@narendramodi	rest	O
+hldng	en	O
+hands	en	O
+of	en	O
+sadanadan	en	B-PERSON
+master	en	O
+,	rest	O
+victim	en	O
+of	en	O
+#LeftistTerror	en	O
+n	en	O
+Kerala	rest	B-PLACE
+.	rest	O
+Both	en	O
+hs	en	O
+legs	en	O
+wr	en	O
+chopped	en	O
+off	en	O
+byCPM	en	O
+h	hi	O
+
+# sent_enum = 30
+Pyaar	hi	O
+Ka	hi	O
+Punchnama	rest	O
+2	rest	O
+-	rest	O
+Official	en	O
+Trailer	en	O
+-	rest	O
+Kartik	hi	B-PERSON
+Tiwari	hi	I-PERSON
+,	rest	O
+Nushrat	rest	B-PERSON
+Bharucha	hi	I-PERSON
+http://t.co/DJhOnZDoy2	rest	O
+
+# sent_enum = 31
+Anyone	en	O
+missing	en	O
+Murali	en	B-PERSON
+Vijay	en	I-PERSON
+?	rest	O
+#justasking	rest	O
+#IndvsSA	rest	O
+
+# sent_enum = 32
+RT	en	O
+@coolfunnytshirt	en	O
+:	rest	O
+Kejriwal	hi	B-PERSON
+:	rest	O
+Apne	hi	O
+Delhi	rest	B-PLACE
+da	hi	O
+munda	hi	O
+Virat	rest	B-PERSON
+Kohli	hi	I-PERSON
+hi	hi	O
+apne	hi	O
+Delhi	rest	B-ORGANISATION
+Daredevils	en	I-ORGANISATION
+ki	hi	O
+le	hi	O
+raha	hi	O
+hai	hi	O
+..	rest	O
+Galat	hi	O
+baat	hi	O
+!	rest	O
+#BJPAgainstOddEven	rest	O
+
+# sent_enum = 33
+RT	en	O
+@REINSTALLINDIA	rest	O
+:	rest	O
+.	rest	O
+@ArvindKejriwal	rest	O
+Baccho	hi	O
+ki	hi	O
+kasam	hi	O
+?	rest	O
+
+# sent_enum = 34
+#	rest	O
+#MahaShivratri	rest	O
+#BlockBusterMSG	en	O
+#	rest	O
+#MustWatchMSG	en	O
+Lord	en	O
+Shiva	en	B-PERSON
+Twinkle	en	B-PERSON
+Khanna	rest	I-PERSON
+We	en	O
+Want	en	O
+MrX	en	O
+3D	rest	O
+Poster	en	O
+Ram	hi	B-PERSON
+Kapoor	hi	I-PERSON
+Yograj	rest	B-PERSON
+Singh	rest	I-PERSON
+
+# sent_enum = 35
+RT	en	O
+@rahulroushan	en	O
+:	rest	O
+Misogyny	en	O
+toh	hi	O
+dekho	hi	O
+https://t.co/HLOI9CSqYx	en	O
+
+# sent_enum = 36
+@satyamev	en	O
+jayte	hi	O
+great	en	O
+show	en	O
+aamir	hi	B-PERSON
+sir	hi	O
+.	rest	O
+Gov	en	B-ORGANISATION
+of	en	I-ORGANISATION
+india	rest	I-ORGANISATION
+ko	hi	O
+har	hi	O
+sports	en	O
+bodies	en	O
+se	hi	O
+polictian	en	O
+ko	hi	O
+alag	hi	O
+rkhe	hi	O
+than	en	O
+only	en	O
+hum	hi	O
+medal	hi	O
+jeet	hi	O
+skte	hi	O
+h	hi	O
+.	rest	O
+
+# sent_enum = 37
+Pranav	rest	B-PERSON
+Dhanawade	hi	I-PERSON
+1000	rest	O
+runs	rest	O
+..!!!!	rest	O
+He	en	O
+should	en	O
+be	en	O
+called	en	O
+Pranav	rest	B-PERSON
+RUNawade	hi	I-PERSON
+.!	rest	O
+#KCGandhiHS	rest	O
+#U16	rest	O
+
+# sent_enum = 38
+RT	en	O
+@naibuthuthu3	en	O
+:	rest	O
+Bridge	en	O
+ge	en	O
+local	en	O
+consultant	en	O
+aki	hi	O
+Madam	en	O
+Fathimath	en	B-PERSON
+Mohamed	en	I-PERSON
+ge	hi	O
+kokku	hi	O
+Ismail	en	B-PERSON
+Mohamed	en	I-PERSON
+musaara	rest	I-PERSON
+USD	rest	O
+7500	rest	O
+@thayyib	hi	O
+@dyingregime	en	O
+@na	rest	O
+
+# sent_enum = 39
+@di_vvi	en	O
+rohit	en	B-PERSON
+Sharma	rest	I-PERSON
+,	rest	O
+Amitabh	hi	B-PERSON
+bachchan	hi	I-PERSON
+are	en	O
+leading	en	O
+those	en	O
+.	rest	O
+
+# sent_enum = 40
+Tiger	en	B-PERSON
+Shroff	en	I-PERSON
+&	rest	O
+Shraddha	hi	B-PERSON
+Kapoor	hi	I-PERSON
+ENTERTAINS	en	O
+their	en	O
+fans	en	O
+in	en	O
+theatre	en	O
+.	rest	O
+See	en	O
+video	en	O
+at	en	O
+:	rest	O
+https://t.co/QQ76JMzllJ	en	O
+#tigershroff	en	O
+#shraddhakapoor	hi	O
+
+# sent_enum = 41
+@Gurmeetramrahim	en	O
+ohhh	en	O
+aaj	hi	O
+to	hi	O
+kya	hi	O
+cnada	hi	B-PLACE
+sinagapur	hi	B-PLACE
+aay	hi	O
+hay	hi	O
+#MSGmissionHumanity	en	O
+
+# sent_enum = 42
+Aj	hi	O
+ya	hi	O
+#windies	rest	O
+larkia	hi	O
+leke	hi	O
+jaegi	hi	O
+ya	hi	O
+boys	en	O
+..	rest	O
+:)	rest	O
+#WT20	rest	O
+#WIvENG	rest	O
+#AusWvWIW	en	O
+#WT20Final	en	O
+
+# sent_enum = 43
+@Gurmeetramrahim	en	O
+#MSGHumanityCamps	en	O
+Good	en	O
+Night	en	O
+pitaji	hi	O
+.	rest	O
+Dhan	hi	B-PERSON
+Dhan	hi	I-PERSON
+Satguru	hi	I-PERSON
+Tera	hi	O
+hi	hi	O
+Aasra	hi	O
+https://t.co/bJkSp5CvCr	en	O
+
+# sent_enum = 44
+Starsports	en	B-ORGANISATION
+hindi	en	O
+commentary	en	O
+:	rest	O
+"	rest	O
+garam	hi	O
+khoon	hi	O
+ke	hi	O
+virat	rest	B-PERSON
+kohli	hi	I-PERSON
+se	hi	O
+galti	hi	O
+ho	hi	O
+gayi	hi	O
+ab	hi	O
+unhe	hi	O
+lamba	hi	O
+jana	hi	O
+padega	hi	O
+"	rest	O
+hilarious	rest	O
+#IndvsPak	rest	O
+
+# sent_enum = 45
+@DesiChaai	hi	O
+@KatteHaiklu	hi	O
+farzi	hi	O
+hai	hi	O
+ye	hi	O
+bc	hi	O
+
+# sent_enum = 46
+RT	en	O
+@ShraddhaKapoor	hi	O
+:	rest	O
+Cine	en	O
+stars	en	O
+ki	hi	O
+khoj	hi	O
+in	en	O
+#Atsu	rest	O
+&	rest	O
+#Zara	rest	O
+!	rest	O
+#Haider	rest	O
+#2ndOct	rest	O
+@tanya1ghavri	hi	O
+http://t.co/BznIyUfZ9d	en	O
+
+# sent_enum = 47
+RT	en	O
+@ANI_news	en	O
+:	rest	O
+Suresh	en	B-PERSON
+Prabhu	rest	I-PERSON
+,	rest	O
+Railway	en	O
+Min	en	O
+#RailBudget2015	en	O
+:	rest	O
+Modernize	en	O
+infrastructure	en	O
+,	rest	O
+make	en	O
+Indian	rest	B-ORGANISATION
+Railways	en	I-ORGANISATION
+financially	en	O
+self-sustainable	en	O
+
+# sent_enum = 48
+"	rest	O
+Trending	en	O
+India	rest	B-PLACE
+:	rest	O
+05:00	rest	O
+PM	rest	O
+IST	rest	O
+"	rest	O
+1	rest	O
+.	rest	O
+#RailBudget2015	rest	O
+2	rest	O
+.	rest	O
+#CelebTrains	en	O
+3	rest	O
+.	rest	O
+#PrabhuKiRail	rest	O
+4	rest	O
+.	rest	O
+#SpiderManQuiz	rest	O
+5	rest	O
+.	rest	O
+#SLvBAN	rest	O
+6	rest	O
+.	rest	O
+Suresh	en	B-PERSON
+Prabhu	rest	I-PERSON
+7	rest	O
+.	rest	O
+Stan	rest	B-PERSON
+Lee	hi	I-PERSON
+
+# sent_enum = 49
+From	en	O
+sandy	en	O
+fields	en	O
+,	rest	O
+they	en	O
+stand	en	O
+transformed	en	O
+into	en	O
+a	en	O
+picture	en	O
+of	en	O
+lush	en	O
+prosperity	en	O
+with	en	O
+innovative	en	O
+farming	en	O
+methods	en	O
+#SuperStarMSG	en	O
+
+# sent_enum = 50
+The	en	O
+Morning	en	O
+Wrap	en	O
+:	rest	O
+Kanhaiya	hi	B-PERSON
+Calls	en	O
+Smriti	en	B-PERSON
+Irani	rest	I-PERSON
+'	rest	O
+Anti-Rational	en	O
+'	rest	O
+;	rest	O
+Twinkle	en	B-PERSON
+Khanna	rest	I-PERSON
+Gets	en	O
+Trolled	en	O
+https://t.co/nHMATpOwtk	en	O
+https://t.co/doYJqW3G2Y	en	O
+
+# sent_enum = 51
+RT	en	O
+@SriSri	rest	O
+:	rest	O
+Our	en	O
+volunteers	en	O
+have	en	O
+taken	en	O
+up	en	O
+mission	en	O
+to	en	O
+clean	en	O
+&	rest	O
+rejuvenate	en	O
+Nallagandla	rest	B-PLACE
+Lake	hi	I-PLACE
+.	rest	O
+6	rest	O
+truckloads	en	O
+of	en	O
+garbage	en	O
+were	en	O
+removed	en	O
+.	rest	O
+(	rest	O
+2	rest	O
+)	rest	O
+https://t	en	O
+.	rest	O
+
+# sent_enum = 52
+@SarahZaki11	hi	O
+@_taurus30	hi	O
+@ayeshazafar441	hi	O
+Nai	hi	O
+mne	hi	O
+to	hi	O
+bhagwan	hi	O
+ka	hi	O
+msg	en	O
+dena	hi	O
+tha	hi	O
+k	hi	O
+Aj	hi	O
+MahaShivratri	rest	O
+he17	en	O
+Somwar	en	O
+Varat	rest	O
+karne	hi	O
+se	hi	O
+acha	hi	O
+PATI	hi	O
+milta	hi	O
+hai	hi	O
+
+# sent_enum = 53
+"	rest	O
+Trending	en	O
+India	rest	B-PLACE
+:	rest	O
+01:19	rest	O
+PM	rest	O
+IST	rest	O
+"	rest	O
+1	rest	O
+.	rest	O
+#RailBudget2015	rest	O
+2	rest	O
+.	rest	O
+#AFGvSCO	rest	O
+3	rest	O
+.	rest	O
+#CelebTrains	en	O
+4	rest	O
+.	rest	O
+#PrabhuKiRail	rest	O
+5	rest	O
+.	rest	O
+#SLvBAN	rest	O
+6	rest	O
+.	rest	O
+Monaco	rest	O
+7	rest	O
+.	rest	O
+Shenwari	hi	O
+8	rest	O
+.	rest	O
+400th	rest	O
+ODI	rest	O
+
+# sent_enum = 54
+@iamserious498	en	O
+tum	hi	O
+bhosdiko	hi	O
+ko	hi	O
+tumhare	hi	O
+baap	hi	O
+ka	hi	O
+pramaan	rest	O
+patra	hi	O
+b	hi	O
+chahye	hi	O
+.	rest	O
+Bc	rest	O
+sirf	hi	O
+bhokna	hi	O
+jante	hi	O
+h	hi	O
+or	hi	O
+kuch	hi	O
+nhi	hi	O
+
+# sent_enum = 55
+@upadhayay03	hi	O
+nehin	hi	O
+bhula	hi	O
+yaar	hi	O
+...	rest	O
+yahan	hi	O
+koi	hi	O
+yaad	hi	O
+nehin	hi	O
+karta	hi	O
+tha	hi	O
+ta	hi	O
+aana	hi	O
+chhod	hi	O
+diya	hi	O
+
+# sent_enum = 56
+via	rest	O
+@iishitav	rest	O
+!	rest	O
+Main	hi	O
+bada	hi	O
+aadmi	hi	O
+ban	hi	O
+gaya	hi	O
+;p	rest	O
+https://t.co/0J7Bodd3dU	rest	O
+
+# sent_enum = 57
+RT	en	O
+@bainjal	rest	O
+:	rest	O
+Is	en	O
+"	rest	O
+entire	en	O
+political	en	O
+science	en	O
+"	rest	O
+a	en	O
+nod	en	O
+to	en	O
+the	en	O
+sangh's	en	O
+"	rest	O
+Akhand	rest	O
+Bharat	rest	B-PLACE
+"	rest	O
+?	rest	O
+#PMfarziDegree	en	O
+fans	en	O
+heart	en	O
+..	rest	O
+
+# sent_enum = 58
+RT	en	O
+@NaMo_272	rest	O
+:	rest	O
+"	rest	O
+YuvaiTV	en	B-ORGANISATION
+:	rest	O
+Debottlenecking	en	O
+traffic	en	O
+facility	en	O
+works	en	O
+-	rest	O
+100%	rest	O
+more	en	O
+funds	en	O
+allocated	en	O
+-	rest	O
+Shri	hi	O
+sureshpprabhu	rest	B-PERSON
+#RailBudget2015	en	O
+http://t	en	O
+.	rest	O
+
+# sent_enum = 59
+@AkasaSing	rest	O
+Mahashivratri	rest	O
+ki	hi	O
+Shubhkamnaye	hi	O
+.	rest	O
+Waise	hi	O
+tumne	hi	O
+bhi	hi	O
+wrat	hi	O
+rakha	hi	O
+hai	hi	O
+aur	hi	O
+rakha	hi	O
+hai	hi	O
+to	hi	O
+kiske	hi	O
+liye	hi	O
+rakha	hi	O
+hai	hi	O
+?..	rest	O
+I	en	O
+m	en	O
+the	en	O
+biggest	en	O
+#Akasians	rest	O
+
+# sent_enum = 60
+RT	en	O
+@KidambiKC	rest	O
+:	rest	O
+Amazing-	rest	O
+Hanging	en	O
+Pillar	en	O
+at	en	O
+Lepakshi	en	B-PLACE
+Temple	en	I-PLACE
+,	rest	O
+Andhra	rest	B-PLACE
+Pradesh	rest	I-PLACE
+#Mahashivratri	rest	O
+#Telugu	en	O
+http://t.co/USEjmAjuCL	en	O
+
+# sent_enum = 61
+@Atheist_Krishna	rest	O
+Duniya	hi	O
+mein	hi	O
+3	rest	O
+cheeze	hi	O
+hoti	hi	O
+zaroor	hi	O
+hai	hi	O
+lekin	hi	O
+kisine	hi	O
+dekhi	hi	O
+nahin	hi	O
+.	rest	O
+bhooton	hi	O
+ka	hi	O
+sansar	hi	O
+,	rest	O
+sacha	hi	O
+wala	hi	O
+pyar	hi	O
+or	hi	O
+Degree	en	O
+#DegreeDialogues	en	O
+
+# sent_enum = 62
+RT	en	O
+@srisrinow	rest	O
+:	rest	O
+#MahaShivratri	rest	O
+Rudra	hi	B-PERSON
+Abhishekam	hi	I-PERSON
+in	en	O
+Presence	en	O
+of	en	O
+Gurudev	en	O
+SriSri	rest	B-PERSON
+#SriSriNow	rest	O
+#AOLShivaratri	rest	O
+at	en	O
+GuruPaduka	en	B-PLACE
+http://t.co/urD4FW2RN7	en	O
+
+# sent_enum = 63
+@murtuzaorniwala	en	O
+@prateekpendhark	en	O
+thanks	en	O
+murtu	en	B-PERSON
+tu	hi	O
+hi	hi	O
+sachcha	hi	O
+dost	hi	O
+hai	hi	O
+
+# sent_enum = 64
+@Gurmeetramrahim	en	O
+pitaji	hi	O
+gudninu	rest	O
+.....	rest	O
+(	rest	O
+apko	hi	O
+PTA	hi	O
+h	hi	O
+kya	hi	O
+)	rest	O
+chweet	en	O
+drmz	en	O
+...	rest	O
+luv	en	O
+u	en	O
+..	rest	O
+ol	rest	O
+#MustWatchMSG	en	O
+#MSGinCinemas	en	O
+cz	en	O
+its	en	O
+ultimate	en	O
+n	en	O
+music	en	O
+rocks	en	O
+too	en	O
+
+# sent_enum = 65
+LALA	hi	B-PERSON
+NE	hi	O
+MATCH	hi	O
+JITA	hi	O
+DIYA	hi	O
+.	rest	O
+\o/	rest	O
+oh	en	O
+sorry	en	O
+..	rest	O
+Pepsi	en	B-ORGANISATION
+ka	hi	O
+ad	hi	O
+tha	hi	O
+.	rest	O
+#IndvsPak	rest	O
+#CWC15	rest	O
+
+# sent_enum = 66
+More	en	O
+than	en	O
+Rahul	en	B-PERSON
+Gandhi	rest	I-PERSON
+..	rest	O
+more	en	O
+than	en	O
+Sonia	rest	B-PERSON
+Gandhi	rest	I-PERSON
+..	rest	O
+more	en	O
+than	en	O
+Sitaram	en	B-PERSON
+Yechury	en	I-PERSON
+..	rest	O
+more	en	O
+than	en	O
+P	rest	B-PERSON
+Chidambaram	rest	I-PERSON
+........	rest	O
+https://t.co/tCaqVYx3Yt	en	O
+
+# sent_enum = 67
+RT	en	O
+@AfsanaMeet	rest	O
+:	rest	O
+@Gurmeetramrahim	en	O
+#PiousBhandara	rest	O
+wow	en	O
+nanu	en	O
+papa	en	O
+
+# sent_enum = 68
+Rana	rest	B-PERSON
+Daggubati	hi	I-PERSON
+to	hi	O
+Romance	en	O
+Kajal	hi	B-PERSON
+Aggarwal	hi	I-PERSON
+II	en	O
+Latest	en	O
+Telugu	en	O
+Film	en	O
+News	en	O
+Updates	en	O
+Gossips	en	O
+:	rest	O
+https://t.co/NL0Yh5eFkv	en	O
+via	en	O
+@YouTube	en	O
+
+# sent_enum = 69
+media	hi	O
+is	en	O
+wonderful	en	O
+.	rest	O
+aaj	hi	O
+@BJPRajnathSingh	rest	O
+ke	hi	O
+ghar	hi	O
+meeting	en	O
+hai	hi	O
+or	hi	O
+@narendramodi	rest	O
+nahi	hi	O
+ja	hi	O
+rahe	hi	O
+par	hi	O
+media	hi	O
+#RahulOnLeave	en	O
+par	hi	O
+charch	hi	O
+kar	hi	O
+rahe	hi	O
+
+# sent_enum = 70
+feeling	en	O
+excited	en	O
+at	en	O
+Sonadanga	rest	B-PLACE
+R/A	rest	O
+,	rest	O
+Khulna	hi	O
+https://t.co/GXRmupNL7S	en	O
+
+# sent_enum = 71
+RT	en	O
+@ndtvfeed	en	O
+:	rest	O
+In	en	O
+Asaduddin	en	B-PERSON
+Owaisi's	en	I-PERSON
+Bihar	rest	B-PLACE
+War	hi	O
+Cry	en	O
+,	rest	O
+A	en	O
+Worry	en	O
+For	en	O
+Anti-BJP	rest	B-ORGANISATION
+Alliance	en	I-ORGANISATION
+http://t.co/fmpef6JxAk	en	O
+
+# sent_enum = 72
+RT	en	O
+@gurruchoudhary	en	O
+:	rest	O
+Thanx	en	O
+mere	hi	O
+bhai	hi	O
+@lostboy54	en	O
+https://t.co/vFFhg5jAVK	en	O
+
+# sent_enum = 73
+RT	en	O
+@2806anu	rest	O
+:	rest	O
+@puspraj	rest	O
+tumhari	hi	O
+bae	hi	O
+ke	hi	O
+liye	hi	O
+flowers	en	O
+https://t.co/G5YwFOd5ao	en	O
+
+# sent_enum = 74
+Shoaib	hi	B-PERSON
+Akhtar	hi	I-PERSON
+to	hi	O
+@SrBachchan	hi	O
+,	rest	O
+sir	hi	O
+aap	hi	O
+jawani	hi	O
+mai	hi	O
+cricket	en	O
+khele	hi	O
+hai	hi	O
+,	rest	O
+to	hi	O
+aap	hi	O
+bowler	en	O
+the	en	O
+ya	hi	O
+batsman	en	O
+@msarosh	en	O
+#IndvsPak	rest	O
+
+# sent_enum = 75
+RT	en	O
+@mrbhavinvyas	en	O
+:	rest	O
+#Danilimbda	rest	O
+ward	en	O
+sangathan	hi	O
+Bethak	hi	O
+@ANIMESHSONI_09	rest	O
+@bhav2406	rest	O
+@bhattkaran83	rest	O
+@iambmane	rest	O
+@pg27693	rest	O
+@hbparmar211	rest	O
+http://t.co/cOz	en	O
+
+# sent_enum = 76
+@niksy21	rest	O
+india	rest	B-PLACE
+baap	hi	O
+hai	hi	O
+n	hi	O
+dono	hi	O
+nalayak	hi	O
+aulad	hi	O
+huyi	hi	O
+pak	hi	O
+n	en	O
+b'desh	en	O
+.	rest	O
+
+# sent_enum = 77
+RT	en	O
+@SirJadeja	rest	O
+:	rest	O
+Sachin	en	B-PERSON
+Tendulkar	en	I-PERSON
+Can	en	O
+Be	en	O
+Replaced	en	O
+By	en	O
+Virat	rest	B-PERSON
+Kohli	rest	I-PERSON
+.	rest	O
+But	en	O
+No	en	O
+One	en	O
+Can	en	O
+Ever	en	O
+Replace	en	O
+MS	en	B-PERSON
+Dhoni	hi	I-PERSON
+.	rest	O
+RT	en	O
+If	en	O
+You	en	O
+Agree	en	O
+.	rest	O
+#IndvsBan	rest	O
+#BANvsI	rest	O
+
+# sent_enum = 78
+thats	en	O
+mauke	hi	O
+pe	hi	O
+chauka	hi	O
+...	rest	O
+now	en	O
+no	en	O
+more	en	O
+mauka	hi	O
+mauka	hi	O
+ads	en	O
+:p	rest	O
+#indvssa	rest	O
+#cwc15	rest	O
+
+# sent_enum = 79
+MahaBJP	rest	B-ORGANISATION
+:	rest	O
+RT	en	O
+vidyutkaji	hi	B-PERSON
+:	rest	O
+MahaBJP	rest	B-ORGANISATION
+narendramodi	rest	B-PERSON
+truth	en	O
+against	en	O
+fiction	en	O
+Tau	rest	O
+jantermantar	rest	B-PLACE
+shd	en	O
+know	en	O
+on	en	O
+#LandAcquisitionBill	en	O
+#Modisarkar	rest	O
+
+# sent_enum = 80
+Britain	en	B-PLACE
+First	en	O
+leader	en	O
+turns	en	O
+his	en	O
+back	en	O
+on	en	O
+Sadiq	hi	B-PERSON
+Khan	hi	I-PERSON
+during	en	O
+mayor	en	O
+s	en	O
+acceptance	en	O
+speech	en	O
+:	rest	O
+The	en	O
+move	en	O
+has	en	O
+co	en	O
+...	rest	O
+https://t.co/XliOUtjc6m	en	O
+#etribune	rest	O
+
+# sent_enum = 81
+RT	en	O
+@BrokenCricket	en	O
+:	rest	O
+Virat	rest	B-PERSON
+Kohli	rest	I-PERSON
+:	rest	O
+Reaches	en	O
+Century	en	O
+..	rest	O
+Reaches	en	O
+6000	rest	O
+T20	rest	O
+Runs	rest	O
+..	rest	O
+Reaches	en	O
+every	en	O
+Cricket	en	O
+fans	en	O
+heart	en	O
+..	rest	O
+
+# sent_enum = 82
+RT	en	O
+AAP_Najafgarh	hi	B-ORGANISATION
+"	rest	O
+RT	en	O
+GulabMatiala	rest	O
+:	rest	O
+'	rest	O
+'	rest	O
+https://t.co/25j185flWJ	rest	O
+"	rest	O
+
+# sent_enum = 83
+Allu	en	B-PERSON
+Arjun	en	I-PERSON
+Visits	en	O
+Tirumala	en	B-PLACE
+With	en	O
+His	en	O
+Family	en	O
+Members	en	O
+http://t.co/TCWxVNcqOU	en	O
+http://t.co/2ai60EdSYS	en	O
+
+# sent_enum = 84
+@SrBachchan	hi	O
+The	en	O
+Superbbbb	en	O
+...!!!!!!!	rest	O
+Shaandaar	hi	O
+..!!!!!	rest	O
+Laajawaab	hi	O
+.....!!!!	rest	O
+Gajjab	rest	O
+....!!!	rest	O
+And	en	O
+Zabardast	hi	O
+....!!!!!!!!!	rest	O
+#YUDH	rest	O
+
+# sent_enum = 85
+MAHASHIVRATRI	rest	O
+Ki	hi	O
+Khushi	hi	O
+Me	hi	O
+SaLyana	hi	O
+Path	hi	O
+Sahib	hi	O
+16_17_18Feb	en	O
+>	rest	O
+2015	rest	O
+Ko	hi	O
+Shiv	hi	B-PLACE
+Shankar	hi	I-PLACE
+Mandir	hi	I-PLACE
+Peti	hi	B-PLACE
+Bazar	hi	I-PLACE
+Me	hi	O
+Mnaya	hi	O
+Jaega	hi	O
+Hindu	rest	O
+Bair	hi	O
+Darshan	hi	O
+Dy	en	O
+,	rest	O
+ps	rest	O
+
+# sent_enum = 86
+Good	en	O
+Morning	en	O
+Happy	en	O
+Mahashivratri	rest	O
+....	rest	O
+.	rest	O
+.	rest	O
+Har	hi	O
+Har	hi	O
+Mahadev	rest	B-PERSON
+.	rest	O
+.	rest	O
+.	rest	O
+.	rest	O
+.	rest	O
+.	rest	O
+Jai	hi	O
+Mata	hi	O
+Di	hi	O
+.	rest	O
+http://t.co/PZRQ4xazXp	en	O
+
+# sent_enum = 87
+RT	en	O
+@govindec082	rest	O
+:	rest	O
+Congress	en	B-ORGANISATION
+reacts	en	O
+to	en	O
+#RailBudget2015	en	O
+,	rest	O
+says	en	O
+,	rest	O
+"	rest	O
+UPA	rest	B-ORGANISATION
+policies	en	O
+repackaged	en	O
+"	rest	O
+NAMO	rest	B-PERSON
+:	rest	O
+-	rest	O
+"	rest	O
+Tumhe	hi	O
+sudharne	hi	O
+hi	hi	O
+to	hi	O
+aaye	hi	O
+hain	hi	O
+"	rest	O
+
+# sent_enum = 88
+RT	en	O
+@IndiaToday	rest	O
+:	rest	O
+Baloch	rest	B-PLACE
+activist	en	O
+Naela	rest	B-PERSON
+Qadri's	rest	I-PERSON
+tale	hi	O
+of	en	O
+Pakistan	rest	B-PLACE
+army	en	O
+torture	en	O
+https://t.co/rqhQ6mlU1V	en	O
+https://t.co/nkj78JWnk7	en	O
+
+# sent_enum = 89
+RT	en	O
+@2806anu	rest	O
+:	rest	O
+@puspraj	rest	O
+Challenge	en	O
+:	rest	O
+Isse	hi	O
+bura	hi	O
+likh	hi	O
+ke	hi	O
+bataao	hi	O
+
+# sent_enum = 90
+Haar	hi	O
+gai	hi	O
+Mumbai	rest	B-ORGANISATION
+Indians	rest	I-ORGANISATION
+Kutte	hi	O
+Ki	hi	O
+tarah	hi	O
+#IPL	rest	O
+#MIvRPS	rest	O
+
+# sent_enum = 91
+Aligarh	hi	B-PLACE
+Official	en	O
+Trailer	en	O
+-	rest	O
+Manoj	rest	B-PERSON
+Bajpayee	hi	I-PERSON
+,	rest	O
+Rajkummar	rest	B-PERSON
+Rao	rest	I-PERSON
+https://t.co/rk0KcBshnc	rest	O
+
+# sent_enum = 92
+Envisage	en	O
+Rs	en	O
+8.5	rest	O
+lakh	hi	O
+cr	en	O
+investment	en	O
+over	en	O
+5	en	O
+years	en	O
+.	rest	O
+#RailBudget2015	rest	O
+:	rest	O
+CA	rest	O
+.	rest	O
+Prabhu	rest	B-PERSON
+
+# sent_enum = 93
+RT	en	O
+@insaniyana	rest	O
+:	rest	O
+What	en	O
+happens	en	O
+when	en	O
+a	en	O
+Patanjali	rest	B-ORGANISATION
+product	en	O
+expires	en	O
+?	rest	O
+It	en	O
+gets	en	O
+re-marketed	en	O
+as	en	O
+a	hi	O
+Shraddhanjali	hi	B-ORGANISATION
+product	en	O
+.	rest	O
+
+# sent_enum = 94
+@aajtak	rest	O
+#dear	rest	O
+arvind	en	B-PERSON
+kejriwal	hi	I-PERSON
+aap	hi	O
+begunaah	hi	O
+hai	hi	O
+.	rest	O
+Yaa	hi	O
+deshdrohi	hi	O
+hai	hi	O
+....	rest	O
+choose	en	O
+
+# sent_enum = 95
+@sunny_congress	en	O
+#are	hi	O
+waah	hi	O
+!!	rest	O
+.....	rest	O
+dharti	hi	O
+maa	hi	O
+ka	hi	O
+yaad	hi	O
+...	rest	O
+supperb	en	O
+tu	hi	O
+sawa	hi	O
+sher	hi	O
+h	hi	O
+
+# sent_enum = 96
+John	en	B-PERSON
+oliver	en	I-PERSON
+best	en	O
+aadmi	hi	O
+hai	hi	O
+.	rest	O
+https://t.co/pQSdFOJiDA	en	O
+
+# sent_enum = 97
+@tdmehta20	rest	O
+@amishra2417	rest	O
+@Team_JodhaAkbar	rest	O
+Wishing	en	O
+You	en	O
+happy	en	O
+happy	en	O
+MAHASHIVRATRI	rest	O
+Bhole	hi	B-PERSON
+baba	hi	I-PERSON
+,	rest	O
+aap	hi	O
+sab	hi	O
+par	hi	O
+apni	hi	O
+aseem	en	O
+kripa	hi	O
+banaye	hi	O
+rakhe	hi	O
+.	rest	O
+
+# sent_enum = 98
+In	en	O
+this	en	O
+hot	en	O
+summer	en	O
+,	rest	O
+do	hi	O
+netas	en	O
+and	en	O
+hapless	en	O
+citizens	en	O
+really	en	O
+have	en	O
+to	en	O
+go	en	O
+through	en	O
+rallies	en	O
+,	rest	O
+yatras	rest	O
+,	rest	O
+speeches	en	O
+for	en	O
+votes	en	O
+?	rest	O
+Don't	en	O
+performance	en	O
+count	en	O
+?	rest	O
+
+# sent_enum = 99
+Trimbakeshwar	hi	B-PLACE
+Shiva	rest	I-PLACE
+Temple	en	I-PLACE
+,	rest	O
+Nashik	rest	B-PLACE
+,	rest	O
+one	en	O
+of	en	O
+12	en	O
+Jyotirlingas	en	O
+of	en	O
+Lord	en	O
+Shiva	rest	B-PERSON
+.	rest	O
+#Mahashivratri	rest	O
+http://t.co/SC399aeVDw	en	O
+via	en	O
+@IndiaHistorypic	rest	O
+
+# sent_enum = 100
+Mahesh	hi	B-PERSON
+-	rest	O
+Simplicity	en	O
+:)	rest	O
+Virat	rest	B-PERSON
+Kohli	rest	I-PERSON
+-	rest	O
+Determination	en	O
+https://t.co/w3wgxSiMO4	en	O
+
+# sent_enum = 101
+Birthday	en	O
+gal	en	O
+on	en	O
+swing	en	O
+#shiraturns1	rest	O
+@	rest	O
+Gayatri	hi	B-PLACE
+Restaurant	en	I-PLACE
+@	rest	O
+Orchid	en	B-PLACE
+https://t.co/6mHRJaAUi0	rest	O
+
+# sent_enum = 102
+RT	en	O
+@RajniGa85113138	rest	O
+:	rest	O
+@Gurmeetramrahim	en	O
+#MSGmissionHumanity	en	O
+pita	hi	O
+ji	hi	O
+hm	hi	O
+pr	hi	O
+hmesha	hi	O
+diya	hi	O
+drishti	hi	O
+bnai	hi	O
+rkhna	hi	O
+
+# sent_enum = 103
+People	en	O
+:	rest	O
+Whee	en	O
+is	en	O
+Rahul	en	B-PERSON
+?	rest	O
+Sonia	rest	B-PERSON
+:	rest	O
+Haan	hi	O
+..	rest	O
+Paapu	rest	O
+kaha	hi	O
+hai	hi	O
+??	rest	O
+Pappuuuu	rest	B-PERSON
+????	rest	O
+#WhereIsRahul	rest	O
+
+# sent_enum = 104
+Puja	hi	O
+Abhishek	hi	B-PERSON
+at	en	O
+Sandipani	rest	B-PLACE
+on	en	O
+eve	en	O
+of	en	O
+Mahashivratri	rest	O
+.	rest	O
+http://t.co/UbwqwE0m0O	en	O
+
+# sent_enum = 105
+24Years	en	O
+Of	en	O
+AjayDevgn	hi	B-PERSON
+waise	hi	O
+mujhe	hi	O
+amiro	hi	O
+se	hi	O
+milne	hi	O
+ka	hi	O
+koi	hi	O
+khaas	hi	O
+shoke	hi	O
+nhi	hi	O
+hai	hi	O
+
+# sent_enum = 106
+@AnupamPkher	rest	O
+@milindkhandekar	rest	O
+lol	rest	O
+jai	hi	O
+Ho	hi	O
+in	hi	O
+mahan	hi	O
+logo	hi	O
+ki	hi	O
+
+# sent_enum = 107
+2	rest	O
+centuries	en	O
+by	en	O
+rahul	en	B-PERSON
+dravid	en	I-PERSON
+in	en	O
+1999	rest	O
+wc	rest	O
+.	rest	O
+@StarSportsIndia	en	O
+#OwnTheJersey	en	O
+
+# sent_enum = 108
+#HeroNo1BRR	en	O
+@Gurmeetramrahim	en	O
+guru	en	O
+g	en	O
+ke	hi	O
+naam	hi	O
+25world	en	O
+records	en	O
+hain	hi	O
+...	rest	O
+salute	en	O
+to	en	O
+guru	en	O
+g	en	O
+https://t.co/F2s0suzgdV	en	O
+
+# sent_enum = 109
+Good	en	O
+morning	en	O
+labors	en	O
+..	rest	O
+Subah	hi	O
+subah	hi	O
+uth	hi	O
+gaye	hi	O
+?	rest	O
+
+# sent_enum = 110
+"	rest	O
+Bhid	hi	O
+me	hi	O
+kyu	hi	O
+yun	hi	O
+chhoda	hi	O
+muje	hi	O
+........	rest	O
+Tuje	hi	O
+sab	hi	O
+pata	hi	O
+tha	hi	O
+na	hi	O
+Maaaaa	hi	O
+......??	rest	O
+@##@	rest	O
+!!!!	rest	O
+"	rest	O
+@coolfunnytshirt	en	O
+http://t.co/m6FzTmfM57	en	O
+
+# sent_enum = 111
+RT	en	O
+@puneetgarg108	rest	O
+:	rest	O
+Shri	hi	O
+@AashishKhetan	hi	O
+ji	hi	O
+addressing	en	O
+a	hi	O
+kisan	hi	O
+dialouge	en	O
+at	en	O
+Bathinda	rest	B-PLACE
+.	rest	O
+https://t.co/4yLoIkIAZR	en	O
+Ho	hi	O
+https://t.co/o4eO3FeX4g	en	O
+
+# sent_enum = 112
+@narendramodi_in	rest	O
+Sir	hi	O
+mahashivratri	hi	O
+ki	hi	O
+hardik	hi	O
+badai.om	rest	O
+namay	en	O
+shivay	en	B-PERSON
+;	rest	O
+pray	en	O
+to	en	O
+god	en	O
+for	en	O
+u.my	en	O
+icon	en	O
+.	rest	O
+
+# sent_enum = 113
+End	en	O
+of	en	O
+'	rest	O
+Quota	rest	O
+Raj	rest	O
+'	rest	O
+in	en	O
+Railways	en	O
+.	rest	O
+#ModiExpress	en	O
+#RailBudget2015	en	O
+
+# sent_enum = 114
+@ashramindia	rest	O
+Mahashivratri	rest	O
+k	hi	O
+pavan	hi	O
+parv	hi	O
+pr	hi	O
+param	hi	O
+pujya	rest	O
+sant	en	O
+shree	en	B-PERSON
+asaram	en	I-PERSON
+bapu	rest	I-PERSON
+ji	hi	O
+ke	hi	O
+shree	hi	O
+charano	hi	O
+me	hi	O
+mera	hi	O
+koti	hi	O
+koti	hi	O
+vandan	hi	O
+.	rest	O
+
+# sent_enum = 115
+@DirGen_ISI	en	O
+@guardian	rest	O
+chu	hi	O
+...	rest	O
+Kaise	hi	O
+...	rest	O
+Thoda	hi	O
+enlighten	en	O
+kare	hi	O
+.	rest	O
+Sale	hi	O
+sharif	hi	O
+ki	hi	O
+potty	en	O
+band	en	O
+hone	hi	O
+par	hi	O
+bhi	hi	O
+tum	hi	O
+India	rest	B-PLACE
+ko	hi	O
+blame	hi	O
+karte	hi	O
+ho	hi	O
+
+# sent_enum = 116
+@ChorariaTaruna	hi	O
+@abhishek4namo	rest	O
+@ANI_news	rest	O
+lagta	hi	O
+hai	hi	O
+@OfficeOfRG	en	O
+ka	hi	O
+political	en	O
+#startup	en	O
+start	en	O
+hone	hi	O
+se	hi	O
+pehle	hi	O
+hi	hi	O
+bankrupt	hi	O
+ho	hi	O
+jayega	hi	O
+.	rest	O
+@INCIndia	rest	O
+
+# sent_enum = 117
+Akmal	rest	B-PERSON
+:	rest	O
+Bhaijaan	rest	O
+,	rest	O
+take	en	O
+cover	en	O
+.	rest	O
+Upar	hi	O
+drone	en	O
+hai	hi	O
+.	rest	O
+Misbah	rest	B-PERSON
+:	rest	O
+Bewakoof	rest	O
+,	rest	O
+wicketkeeping	en	O
+kar	hi	O
+,	rest	O
+woh	hi	O
+Hawkeye	hi	O
+wala	hi	O
+camera	en	O
+hai	hi	O
+.	rest	O
+#IndvsPak	rest	O
+@defencepk	en	O
+
+# sent_enum = 118
+@SherESharma	rest	O
+@RailMinIndia	rest	O
+@nagda	rest	O
+when	en	O
+nizamuddin	en	B-PLACE
+and	en	O
+avantika	en	B-PLACE
+,	rest	O
+ranthambore	en	B-PLACE
+was	en	O
+arriving	en	O
+.	rest	O
+
+# sent_enum = 119
+RT	en	O
+@ndtv	en	O
+:	rest	O
+Smriti	en	B-PERSON
+Irani's	rest	I-PERSON
+comments	en	O
+disputed	en	O
+by	en	O
+doctor	en	O
+who	en	O
+declared	en	O
+Rohith	en	B-PERSON
+Vemula	en	I-PERSON
+dead	en	O
+https://t.co/dL79mYiFY1	en	O
+https://t.co/9VZEElAWbt	en	O
+
+# sent_enum = 120
+@nailainayat	hi	O
+ROFL	en	O
+,	rest	O
+tooo	hi	O
+much	hi	O
+hai	hi	O
+ji	hi	O
+,,	rest	O
+
+# sent_enum = 121
+RT	en	O
+@gilliauna	rest	O
+:	rest	O
+HOLIDAY	en	O
+SALE	en	O
+French	en	O
+Locket	en	O
+Necklace	en	O
+.	rest	O
+Eiffel	en	B-PLACE
+Tower	en	I-PLACE
+Necklace	en	O
+with	en	O
+Coral	en	O
+Teardrop	en	O
+and	en	O
+Pearl	en	O
+.	rest	O
+https://t.co/9cTDZvK2sQ	en	O
+https://	rest	O
+
+# sent_enum = 122
+RG	rest	O
+:	rest	O
+Mom	en	O
+mujhe	hi	O
+budget	en	O
+budget	en	O
+khelna	hi	O
+hai	hi	O
+Mom	en	O
+:	rest	O
+Beta	hi	O
+,	rest	O
+tumhare	hi	O
+women	en	O
+empowerment	en	O
+khelneke	hi	O
+din	hi	O
+hai	hi	O
+RG	rest	O
+:	rest	O
+yaay	hi	O
+!	rest	O
+ringa	rest	O
+ringa	rest	O
+roses	en	O
+#RahulOnLeave	en	O
+
+# sent_enum = 123
+Om	rest	O
+Namah	rest	O
+Shivaay	hi	O
+!	rest	O
+Happy	en	O
+Mahashivratri	rest	O
+!	rest	O
+
+# sent_enum = 124
+@ImRaina	rest	O
+Mahashivratri	rest	O
+to	en	O
+you	en	O
+and	en	O
+team	en	O
+India	rest	B-PLACE
+.	rest	O
+Unke	hi	O
+kripa	hi	O
+ish	en	O
+#WorldCup	en	O
+me	hi	O
+hamari	hi	O
+team	en	O
+par	hi	O
+banaye	hi	O
+rahe	hi	O
+.	rest	O
+Har	hi	O
+har	hi	O
+Mahadev	rest	B-PERSON
+.	rest	O
+
+# sent_enum = 125
+Sardaar	hi	O
+Gabbar	hi	B-PERSON
+Singh	rest	I-PERSON
+||	rest	O
+Power	en	O
+Star	en	O
+Pawan	hi	O
+Kalyan	hi	B-PERSON
+||	rest	O
+Sankranthi	rest	O
+Special	en	O
+Teaser	en	O
+https://t.co/qTc07GjV00	en	O
+
+# sent_enum = 126
+RT	en	O
+@TheIntlHerald	en	O
+:	rest	O
+India	rest	B-PLACE
+:	rest	O
+Tear	en	O
+Gas	en	O
+and	en	O
+Lathi	en	O
+Charge	en	O
+on	en	O
+Non	en	O
+Kashmiri	hi	O
+students	en	O
+at	en	O
+NIT	hi	B-ORGANISATION
+Srinagar	hi	I-ORGANISATION
+https://t.co/kftqJqlBzI	en	O
+
+# sent_enum = 127
+@Mrophiophagus	en	O
+hahaha	rest	O
+.....	rest	O
+anyone	en	O
+wud	en	O
+love	en	O
+to	en	O
+sponser	en	O
+you	en	O
+.	rest	O
+Ek	hi	O
+patak	hi	O
+tweet	en	O
+gari	hi	O
+herana	rest	O
+;)	rest	O
+
+# sent_enum = 128
+RT	en	O
+@shankarshanmugh	rest	O
+:	rest	O
+2.0	rest	O
+-	rest	O
+with	en	O
+Kenny	en	B-PERSON
+bates	en	I-PERSON
+action	en	O
+producer	en	O
+and	en	O
+Nirav	en	B-PERSON
+shah	en	I-PERSON
+DOP	en	O
+at	en	O
+Nehru	rest	B-PLACE
+stadium	rest	I-PLACE
+Delhi	rest	B-PLACE
+.	rest	O
+https://t.co/9wTHvU9SLm	en	O
+
+# sent_enum = 129
+RT	en	O
+@Funny_Truth	en	O
+:	rest	O
+Bananas	rest	O
+can	en	O
+reduce	en	O
+the	en	O
+swelling	en	O
+and	en	O
+irritation	en	O
+of	en	O
+mosquito	en	O
+bites	en	O
+and	en	O
+help	en	O
+with	en	O
+nicotine	en	O
+withdrawal	en	O
+.	rest	O
+
+# sent_enum = 130
+Lets	en	O
+not	en	O
+jinx	en	O
+Gabbar	hi	B-PERSON
+Dhawan	hi	I-PERSON
+!!	rest	O
+#IndvsSA	rest	O
+
+# sent_enum = 131
+RT	en	O
+@kamaljii	rest	O
+:	rest	O
+#REKKA	rest	O
+Movie	en	O
+-	rest	O
+Team	en	O
+2/3	rest	O
+Cast	en	O
+:	rest	O
+VJS	rest	O
+,	rest	O
+Lakshmi	hi	B-PERSON
+Menon	en	I-PERSON
+,	rest	O
+@Kabirduhansingh	rest	O
+,	rest	O
+Satish	rest	B-PERSON
+,	rest	O
+KS	rest	B-PERSON
+RaviK	rest	I-PERSON
+,	rest	O
+Editor	en	O
+:	rest	O
+@Cinemainmygenes	en	O
+,	rest	O
+DOP	rest	O
+Dine	hi	O
+
+# sent_enum = 132
+All	en	O
+r	en	O
+same	en	O
+Modi	en	B-PERSON
+k	hi	O
+raaj	hi	O
+mein	hi	O
+aisa	hi	O
+b	hi	O
+hota	hi	O
+hai	hi	O
+...	rest	O
+https://t.co/PK1EGZbFJn	en	O
+@MaxIndiaLtd	rest	O
+
+# sent_enum = 133
+@P_Smithson	en	O
+dude	en	O
+do	en	O
+you	en	O
+know	en	O
+about	en	O
+her	en	O
+randi	rest	O
+rona	hi	O
+?	rest	O
+@AdvancedMaushi	rest	O
+
+# sent_enum = 134
+RT	en	O
+@SuperSRKian	en	O
+:	rest	O
+England's	rest	B-PLACE
+Roy	en	B-PERSON
+>	rest	O
+Anurag	en	B-PERSON
+Kashyap's	hi	I-PERSON
+Roy	en	B-PERSON
+#SAvsENG	en	O
+
+# sent_enum = 135
+#DelhiDecides	en	O
+#Modi	rest	O
+ji	hi	O
+ki	hi	O
+9	rest	O
+mahine	hi	O
+ki	hi	O
+uplabhi	hi	O
+sirf	hi	O
+JAN	hi	O
+DHAN	hi	O
+YOJANA	hi	O
+hain	hi	O
+Delhi	rest	B-PLACE
+me	hi	O
+to	hi	O
+BJP	rest	B-ORGANISATION
+ka	hi	O
+khata	hi	O
+khula	hi	O
+nahi	hi	O
+ab	hi	O
+JANDHAN	rest	O
+me	hi	O
+hi	hi	O
+khata	hi	O
+khulwa	hi	O
+le	hi	O
+
+# sent_enum = 136
+RT	en	O
+@tarsem_insan	en	O
+:	rest	O
+@Gurmeetramrahim	en	O
+#PiousBhandara	rest	O
+Kya	hi	O
+paropkara	hi	O
+kar	hi	O
+rahe	hi	O
+ho	hi	O
+Ap	hi	O
+smaj	rest	O
+pe	hi	O
+..	rest	O
+
+# sent_enum = 137
+RT	en	O
+@TrollKejri	en	O
+:	rest	O
+Khansi	hi	O
+ka	hi	O
+ilaaj	hi	O
+kara	hi	O
+rha	hi	O
+tha	hi	O
+https://t.co/fepNwWE9op	en	O
+
+# sent_enum = 138
+Please	en	O
+watch	en	O
+:	rest	O
+13	rest	O
+April	en	O
+2016	rest	O
+:	rest	O
+Zee24taas	rest	O
+channel	rest	O
+:	rest	O
+at	en	O
+14:30	rest	O
+to	hi	O
+15:00	rest	O
+.	rest	O
+Programme	en	O
+about	en	O
+"	rest	O
+CHATE	hi	O
+Nivasi	hi	O
+Coaching	en	O
+Sankul	en	B-PERSON
+"	rest	O
+.	rest	O
+
+# sent_enum = 139
+Priyanka	rest	B-PERSON
+Chopra's	rest	I-PERSON
+#Baywatch	hi	O
+avatar	hi	O
+is	hi	O
+a	hi	O
+big	en	O
+''''	rest	O
+yayyyy	en	O
+''''	rest	O
+for	en	O
+us	en	O
+!	rest	O
+She	en	O
+looks	en	O
+stunning	en	O
+Hot	en	O
+!	rest	O
+https://t.co/cd8s2cUcHr	en	O
+
+# sent_enum = 140
+RT	en	O
+@Stinson_Desi	en	O
+:	rest	O
+jokero	en	O
+ki	hi	O
+naukri	hi	O
+karega	hi	O
+kallu	hi	O
+??	rest	O
+hahahahahahah	rest	O
+.	rest	O
+#QuestionToSelf	en	O
+
+# sent_enum = 141
+@desi_dime	en	O
+#mauka	rest	O
+is	en	O
+dont	en	O
+become	en	O
+,	rest	O
+Gumraah	rest	O
+,	rest	O
+Watch	en	O
+#IndvsSA	rest	O
+Sahi	hi	O
+Raah	hi	O
+
+# sent_enum = 142
+@ArvindKejriwal	en	O
+thank	en	O
+you	en	O
+very	en	O
+much	en	O
+Aap	hi	O
+ko	hi	O
+bhi	hi	O
+Mahashivratri	rest	O
+ki	hi	O
+shubhkamna	hi	O
+,	rest	O
+shree	en	B-PERSON
+Somnath	en	I-PERSON
+Mahadev	rest	I-PERSON
+aap	hi	O
+ko	hi	O
+bahut	hi	O
+kaam	hi	O
+karne	hi	O
+ki	hi	O
+Shakti	hi	O
+de	hi	O
+,	rest	O
+
+# sent_enum = 143
+RT	en	O
+@aartic02	rest	O
+:	rest	O
+Modi	rest	B-PERSON
+ji	hi	O
+in	en	O
+Power	en	O
+at	en	O
+Centre	en	O
+will	en	O
+readily	en	O
+provide	en	O
+Full	en	O
+State	en	O
+to	hi	O
+Delhi	rest	B-PLACE
+#	rest	O
+_	rest	O
+_	rest	O
+_	rest	O
+https://t.co/NweDSPsXge	en	O
+
+# sent_enum = 144
+@Gurmeetramrahim	en	O
+MSG	en	B-ORGANISATION
+alwys	en	O
+doing	en	O
+to	en	O
+humanity	en	O
+nd	en	O
+krta	hi	O
+rhega	hi	O
+#MSGmissionHumanity	en	O
+
+# sent_enum = 145
+Sudhu	hi	O
+Tomar	rest	O
+Jonno	rest	O
+Full	en	O
+Mp3	en	O
+Song	en	O
+Free	en	O
+Download	en	O
+By	en	O
+Dhrubo	en	B-PERSON
+Single	en	O
+Audio	en	O
+Track	en	O
+http://t.co/8KugwwHewI	en	O
+
+# sent_enum = 146
+@itz_bhaskar	hi	O
+Panche	hi	O
+pakka	hi	O
+....	rest	O
+miss	en	O
+aythe	en	O
+Navy	en	O
+blue	en	O
+zip	en	O
+T	en	O
+shirt	en	O
+:)	rest	O
+
+# sent_enum = 147
+RT	en	O
+@VishalDadlani	rest	O
+:	rest	O
+Truly	en	O
+tragic	en	O
+.	rest	O
+India	rest	B-PLACE
+getting	en	O
+battered	en	O
+diplomatically	en	O
+by	en	O
+China	rest	B-PLACE
+,	rest	O
+Pak	rest	B-PLACE
+,	rest	O
+Nepal	rest	B-PLACE
+!	rest	O
+Modi's	rest	B-PERSON
+chest-size	en	O
+vibe	en	O
+seems	en	O
+ineffective	en	O
+.	rest	O
+http	en	O
+
+# sent_enum = 148
+Jitni	hi	O
+awaaz	hi	O
+humnein	en	O
+#NationalAnthem	en	O
+gaate	hi	O
+hue	hi	O
+ki	hi	O
+...	rest	O
+Itni	hi	O
+toh	hi	O
+yeh	hi	O
+#worldcup	en	O
+jeetne	hi	O
+pe	hi	O
+nahi	hi	O
+karte	hi	O
+the	hi	O
+...	rest	O
+#bc	rest	O
+#CWC15	rest	O
+#IndvsAus	rest	O
+
+# sent_enum = 149
+Breaking	en	O
+news	en	O
+:	rest	O
+Rahul	en	B-PERSON
+Gandhi	rest	I-PERSON
+is	en	O
+in	en	O
+LOP	rest	O
+.	rest	O
+Ye	hi	O
+congress	en	B-ORGANISATION
+ki	hi	O
+HR	hi	O
+bhi	hi	O
+bohut	hi	O
+strict	en	O
+hai	hi	O
+.	rest	O
+#WhereIsRahul	rest	O
+
+# sent_enum = 150
+#MahaShivratri	rest	O
+is	en	O
+celebrated	en	O
+on	en	O
+Krishna	rest	B-PERSON
+Paksha	rest	O
+Chaturdashi	hi	O
+of	en	O
+Hindu	rest	O
+calendar	en	O
+month	en	O
+Maagha	hi	O
+as	hi	O
+per	hi	O
+Amavasya-ant	en	O
+month	en	O
+calculation	en	O
+.	rest	O
+
+# sent_enum = 151
+@Nirmalogy	en	O
+Rahul	en	B-PERSON
+Gandhi	rest	I-PERSON
+JINDA	rest	O
+DAAT	rest	O
+......	rest	O
+
+# sent_enum = 152
+1949	rest	O
+:	rest	O
+Annamalaiyar	rest	B-PLACE
+Shiva	rest	I-PLACE
+Temple	en	I-PLACE
+,	rest	O
+Thiruvannamalai	rest	B-PLACE
+,	rest	O
+Tamil	rest	B-PLACE
+Nadu	rest	I-PLACE
+.	rest	O
+Built	en	O
+by	en	O
+Chola	hi	O
+Kings	en	O
+.	rest	O
+#MahaShivratri	rest	O
+http://t.co/VjfgtIBzlR	en	O
+@IndiaHistorypic	rest	O
+
+# sent_enum = 153
+RT	en	O
+@nehasahu75	rest	O
+:	rest	O
+@ArvindKejriwal	rest	O
+sir	hi	O
+aise	hi	O
+hi	hi	O
+rang	hi	O
+badlte	hi	O
+rahiye	hi	O
+....	rest	O
+
+# sent_enum = 154
+RT	en	O
+@coolfunnytshirt	en	O
+:	rest	O
+Modi	rest	B-PERSON
+:	rest	O
+Aur	hi	O
+Sharif	hi	B-PERSON
+miyan	hi	I-PERSON
+,	rest	O
+kaise	hi	O
+hain	hi	O
+?	rest	O
+Sharif	rest	B-PERSON
+:	rest	O
+Bas	hi	O
+sir	hi	O
+,	rest	O
+zinda	hi	O
+hoon	hi	O
+...	rest	O
+Dilwale	hi	O
+dekhne	hi	O
+ke	hi	O
+baad	hi	O
+bhi	hi	O
+!	rest	O
+https://t.co/SnJ7S9	rest	O
+
+# sent_enum = 155
+@obnoxious_ravan	en	O
+wahi	hi	O
+chall	hi	O
+ra	hi	O
+hai	hi	O
+brother	en	O
+
+# sent_enum = 156
+RT	en	O
+@narendramodi	rest	O
+:	rest	O
+Happy	en	O
+to	en	O
+witness	en	O
+'	rest	O
+Iron	en	O
+Fist	en	O
+2016	rest	O
+'	rest	O
+at	en	O
+Pokhran	en	B-PLACE
+in	en	O
+the	en	O
+Thar	hi	B-PLACE
+Desert	en	I-PLACE
+,	rest	O
+with	en	O
+Rashtrapati	en	O
+ji	hi	O
+.	rest	O
+@RashtrapatiBhvn	en	O
+https://t.co/nMMk4	en	O
+
+# sent_enum = 157
+guru	en	O
+g	en	O
+is	en	O
+a	en	O
+fashion	en	O
+designer	en	O
+,	rest	O
+a	hi	O
+magazine	hi	O
+designer	en	O
+,	rest	O
+automobile	en	O
+designer	en	O
+,	rest	O
+interior	en	O
+and	en	O
+exterior	en	O
+decorator	en	O
+and	en	O
+landscape	en	O
+designer	en	O
+#SuperHeroBRR	en	O
+
+# sent_enum = 158
+RT	en	O
+@srithh	rest	O
+:	rest	O
+#MahaShivratri	rest	O
+Sanskrit	en	O
+word	en	O
+"	rest	O
+Shiva	rest	B-PERSON
+"	rest	O
+comes	en	O
+from	en	O
+Shri	hi	O
+Rudram	en	B-PERSON
+Chamakam	rest	I-PERSON
+of	en	O
+Taittiriya	hi	B-PLACE
+Samhita	hi	I-PLACE
+of	en	O
+Krishna	rest	B-PERSON
+Yajurveda	rest	O
+#hindu	rest	O
+http://t	en	O
+.	rest	O
+
+# sent_enum = 159
+@hindusangatjcd	rest	O
+:	rest	O
+*	rest	O
+JAI	hi	O
+shankar	hi	B-PERSON
+Hum	hi	O
+Tamam	hi	O
+Hindu	rest	O
+Brothery	en	O
+Ko	hi	O
+MAHASHIVRATRI	rest	O
+Ki	hi	O
+Lkh	hi	O
+Lkh	hi	O
+Badhai	hi	O
+Dete	hi	O
+Hi	hi	O
+By	en	O
+.	rest	O
+Dr	rest	O
+lachhmandas	rest	B-PERSON
+makwana	rest	I-PERSON
+
+# sent_enum = 160
+RT	en	O
+@BLOODVAMPIRE14	en	O
+:	rest	O
+@Gurmeetramrahim	en	O
+@insan_honey	en	O
+#BdayOfMSGWithMSG2	en	O
+Mujhe	hi	O
+apne	hi	O
+pass	hi	O
+rkh	hi	O
+lo	hi	O
+MSG	en	B-ORGANISATION
+suna	hi	O
+hai	hi	O
+bin	hi	O
+mange	en	O
+wish	en	O
+puri	hi	O
+krty	hi	O
+ho	hi	O
+aap	hi	O
+h	hi	O
+
+# sent_enum = 161
+RT	en	O
+@sardakanu	rest	O
+:	rest	O
+Delhi	rest	B-PLACE
+High	en	B-ORGANISATION
+Court	en	I-ORGANISATION
+grants	en	O
+bail	hi	O
+to	hi	O
+JNUSU	rest	B-ORGANISATION
+President	en	O
+Kanhaiya	hi	B-PERSON
+Kumar	hi	I-PERSON
+@NewIndianXpress	rest	O
+
+# sent_enum = 162
+Revelation	en	O
+drama	en	O
+amid	en	O
+#MahaShivratri	rest	O
+on	en	O
+Colors	en	O
+'	rest	O
+Sasural	hi	O
+Simar	hi	B-PERSON
+Ka	hi	O
+!	rest	O
+@SSKOnColors	en	O
+@simar_ka	rest	O
+http://t.co/9TaqGJUOt7	en	O
+http://t.co/p7DVMYI1co	en	O
+
+# sent_enum = 163
+Pak	rest	B-PLACE
+captain	en	O
+~	rest	O
+Ya	en	O
+Allah	en	B-PERSON
+1	rest	O
+Chakka	hi	O
+de	hi	O
+de	hi	O
+.	rest	O
+.	rest	O
+.	rest	O
+.	rest	O
+.	rest	O
+Allah	en	O
+~	rest	O
+Pura	hi	O
+Pakistan	rest	B-PLACE
+bhar	hi	O
+diya	hi	O
+Chakkon	hi	O
+se	hi	O
+aur	hi	O
+kitne	hi	O
+Chakke	hi	O
+chahiyen	hi	O
+?	rest	O
+#CWC15	rest	O
+#IndvsPak	rest	O
+
+# sent_enum = 164
+@INCIndia	rest	O
+#AnandSharma	rest	O
+Bhaisahab	hi	O
+KUCH	hi	O
+BHI	hi	O
+?	rest	O
+If	en	O
+can't	en	O
+express	en	O
+real	en	O
+emotions	en	O
+at	en	O
+least	en	O
+don't	en	O
+criticize	en	O
+!	rest	O
+#DontTagMeABhakt	hi	O
+https://t.co/trQ0wLohZL	en	O
+
+# sent_enum = 165
+Ab	hi	O
+to	hi	O
+Nigerians	rest	O
+ki	hi	O
+khair	hi	O
+nahi	hi	O
+.	rest	O
+#SomnathBharti	hi	O
+#DelhiDecides	en	O
+#KiskiDilli	en	O
+
+# sent_enum = 166
+Jcd/Har	hi	O
+Saal	hi	O
+ki	hi	O
+trah	hi	O
+is	hi	O
+Saal	hi	O
+B'MAHASHIVRATRI	rest	O
+'	rest	O
+17	rest	O
+,	rest	O
+Feb	en	O
+Subh	hi	O
+8se	hi	O
+Sham	hi	O
+7bje	hi	O
+tak	hi	O
+ShamShan	hi	O
+Bhumi'MASANY'me	hi	O
+Mnai	hi	O
+Jaegi	hi	O
+Hindu	rest	O
+Bair	hi	O
+Drshn	en	O
+dy	en	O
+:	rest	O
+PHGP/JCD	rest	O
+
+# sent_enum = 167
+Om	hi	O
+Tat	hi	O
+Purushaya	hi	O
+Vidmahe	rest	O
+,	rest	O
+Mahadevaya	rest	B-PERSON
+Dhimahi	rest	O
+,	rest	O
+Tanno	rest	O
+Rudra	hi	O
+Prachodayat	hi	O
+..!	rest	O
+#ShivRatri	rest	O
+#ShivaShiva	rest	O
+#MahaShivratri	rest	O
+Stay	en	O
+Blessed	en	O
+!	rest	O
+
+# sent_enum = 168
+Chachi	hi	O
+bhi	hi	O
+delete	en	O
+krengi	hi	O
+ab	hi	O
+previous	en	O
+tweets	en	O
+.	rest	O
+ache	hi	O
+fast	en	O
+ballers	en	O
+se	hi	O
+jyada	hi	O
+india	rest	B-PLACE
+ko	hi	O
+akalmand	en	O
+politicians	en	O
+chahie	hi	O
+modi	rest	B-PERSON
+https://t.co/YhYpymRcMN	en	O
+
+# sent_enum = 169
+@sardesairajdeep	rest	O
+tussi	hi	O
+bade	hi	O
+majakiya	hi	O
+ho	hi	O
+:D	rest	O
+
+# sent_enum = 170
+Living	en	O
+on	en	O
+the	en	O
+edge-	en	O
+literally	en	O
+!	rest	O
+@	rest	O
+Club	en	B-ORGANISATION
+Mahindra	rest	B-ORGANISATION
+Poovar	en	B-PLACE
+https://t.co/ypzfCHLPiY	en	O
+
+# sent_enum = 171
+#MahaShivratri	rest	O
+:	rest	O
+Adi	hi	B-PERSON
+Shankara's	rest	I-PERSON
+amazing	en	O
+Nirvana	rest	O
+Shatakam	hi	O
+.	rest	O
+South	en	O
+Indian	rest	O
+style	en	O
+:	rest	O
+https://t.co/OPPjd8s4Pe	en	O
+N	en	O
+Indian	rest	O
+style	en	O
+:	rest	O
+https://t.co/Pret8OinEJ	en	O
+
+# sent_enum = 172
+RT	en	O
+@Sarcusstic	en	O
+:	rest	O
+"	rest	O
+Super	en	O
+Nirma	rest	O
+se	hi	O
+saare	hi	O
+daag	hi	O
+chale	hi	O
+jaayenge	hi	O
+aur	hi	O
+mummy	en	O
+ko	hi	O
+pata	hi	O
+bhi	hi	O
+nahi	hi	O
+chalega	hi	O
+.	rest	O
+"	rest	O
+"	rest	O
+Kyu	hi	O
+nahi	hi	O
+pata	hi	O
+chalega	hi	O
+?	rest	O
+"	rest	O
+"	rest	O
+Unki	hi	O
+10saal	hi	O
+pehle	hi	O
+
+# sent_enum = 173
+Bhakti	hi	O
+Me	hi	O
+Hai	hi	O
+Shakti	hi	O
+Bandhu	hi	O
+Shakti	hi	O
+Me	hi	O
+Sansar	hi	O
+Hai	hi	O
+Trilok	en	O
+Me	en	O
+Hai	hi	O
+Jiski	hi	O
+Charcha	hi	O
+Un	hi	O
+Shiv	hi	B-PERSON
+Ji	hi	O
+Ka	hi	O
+Tyohar	hi	O
+Hai	hi	O
+Om	rest	O
+Nama	rest	O
+ShivayHappy	hi	O
+Mahashivratri	rest	O
+
+# sent_enum = 174
+Ujjaini	hi	B-PLACE
+Mein	hi	O
+Jo	hi	O
+Bhi	hi	O
+by	en	O
+Pt	en	O
+.	rest	O
+Devendra	rest	B-PERSON
+Bihari	hi	I-PERSON
+Goswami	en	I-PERSON
+||	rest	O
+Kumbh	en	O
+Special	en	O
+Bhajan	hi	O
+:	rest	O
+https://t.co/ENNAy5TMp9	en	O
+via	en	O
+@YouTube	en	O
+
+# sent_enum = 175
+@aishh124	rest	O
+kuch	hi	O
+tweets	en	O
+kiye	hi	O
+the	hi	O
+tumne	hi	O
+toh	hi	O
+thumbnail	hi	O
+mein	hi	O
+dikha	hi	O
+..	rest	O
+
+# sent_enum = 176
+@iMac_too	en	O
+so	en	O
+now	en	O
+haaj	hi	O
+yatra	hi	O
+at	en	O
+Manas	rest	B-PLACE
+Sarovar	hi	I-PLACE
+n	en	O
+roza	en	O
+on	en	O
+Mahashivratri	rest	O
+.	rest	O
+@abpnewstv	en	O
+
+# sent_enum = 177
+Virat	rest	B-PERSON
+bhaiya	hi	O
+!!	rest	O
+What	en	O
+a	en	O
+boy	en	O
+this	en	O
+Chahal	rest	B-PERSON
+.	rest	O
+#RRvRCB	rest	O
+
+# sent_enum = 178
+#LandAcquisitionBill	en	O
+ye	hi	O
+bas	hi	O
+Robert	en	B-PERSON
+Vadra	rest	I-PERSON
+ke	hi	O
+Bhumi_Adhigrahan	hi	O
+ke	hi	O
+liye	hi	O
+hi	hi	O
+bana	hi	O
+hai	hi	O
+,	rest	O
+uske	hi	O
+baad	hi	O
+ordinance	en	O
+withdraw	en	O
+kar	hi	O
+legi	hi	O
+Govt	en	O
+.	rest	O
+
+# sent_enum = 179
+@HuffyEudaimonia	hi	O
+Theek	hi	O
+hai	hi	O
+.	rest	O
+Ab	hi	O
+to	hi	O
+tu	hi	O
+baas	hi	O
+updates	en	O
+hi	hi	O
+dekh	hi	O
+!	rest	O
+;)	rest	O
+
+# sent_enum = 180
+Bhai	hi	O
+rahane	hi	B-PERSON
+ko	hi	O
+kyu	hi	O
+lete	hi	O
+hu	hi	O
+T20	rest	O
+mai	hi	O
+..	rest	O
+#INDvsSL	rest	O
+
+# sent_enum = 181
+@rjaggrawal	hi	O
+@Me_Shiwani	hi	O
+@ravishndtv	rest	O
+@abhisar_sharma	rest	O
+kash	hi	O
+!	rest	O
+Jurno	en	O
+ka	hi	O
+bhi	hi	O
+ek	hi	O
+debate	hi	O
+league	en	O
+hota	hi	O
+n	en	O
+auction	en	O
+hota	hi	O
+,	rest	O
+pata	hi	O
+to	hi	O
+chalta	hi	O
+kaun	hi	O
+kitneme	hi	O
+bika	hi	O
+.	rest	O
+
+# sent_enum = 182
+I	en	O
+liked	en	O
+a	en	O
+@YouTube	en	O
+video	en	O
+http://t.co/WbPP5XZuNq	en	O
+Atif	en	B-PERSON
+Aslam	rest	I-PERSON
+-	rest	O
+Old	en	O
+Songs	en	O
+Medley	en	O
+of	en	O
+Mohammad	en	B-PERSON
+Rafi	rest	I-PERSON
+&	rest	O
+Kishore	hi	B-PERSON
+Kumar	hi	I-PERSON
+at	en	O
+Live	en	O
+Concert	en	O
+2012	rest	O
+
+# sent_enum = 183
+RT	en	O
+@TimesNow	en	O
+:	rest	O
+Railway	en	B-ORGANISATION
+Minister	en	O
+Suresh	en	B-PERSON
+Prabhu	hi	I-PERSON
+launches	hi	O
+all-India	rest	O
+24X7	rest	O
+helpline	en	O
+-	rest	O
+138	rest	O
+,	rest	O
+to	en	O
+be	en	O
+effective	en	O
+from	en	O
+March	en	O
+1	rest	O
+#RailBudget2015	rest	O
+
+# sent_enum = 184
+#Vizianagaram	rest	O
+#Bramhotsavam	en	O
+Main	en	O
+theatre	en	O
+:	rest	O
+Leelamahal	rest	B-PLACE
+,	rest	O
+Aditya(side	en	O
+theatre	en	O
+)	rest	O
+.	rest	O
+So	en	O
+far	en	O
+confirmed	en	O
+.	rest	O
+#Aaa	hi	O
+Main	hi	O
+theatre	en	O
+:	rest	O
+NCS	rest	B-ORGANISATION
+
+# sent_enum = 185
+"	rest	O
+@timesofindia	rest	O
+:	rest	O
+Atal	hi	B-PERSON
+Pension	en	O
+plan	en	O
+launched	en	O
+aimed	en	O
+at	en	O
+Indians	rest	O
+ab	hi	O
+60	rest	O
+#SuperBudget	en	O
+LIVE	en	O
+updates	en	O
+:	rest	O
+http://t.co/jIdGNxMsqr	en	O
+http://t.co/r2VwHoVuX5	en	O
+"	rest	O
+
+# sent_enum = 186
+RT	en	O
+@lsunil	en	O
+:	rest	O
+MahaShivratri	rest	O
+ki	hi	O
+shubh	hi	O
+kamnaye	hi	O
+RT	en	O
+He	hi	O
+is	hi	O
+Ardhanarisvara	hi	B-PERSON
+.	rest	O
+Nandalal	rest	B-PERSON
+Bose	hi	I-PERSON
+.	rest	O
+1942	rest	O
+.	rest	O
+http://t.co/PWq7vBxWVd	en	O
+
+# sent_enum = 187
+Ghanshyam	en	B-PERSON
+Goyal	en	I-PERSON
+Thanks	en	O
+for	en	O
+the	en	O
+follow	en	O
+!	rest	O
+
+# sent_enum = 188
+RT	en	O
+@MiniAgrawal6	en	O
+:	rest	O
+@aaprohit	rest	O
+@ArvindKejriwal	rest	O
+tumhare	hi	O
+chutiyape	hi	O
+ki	hi	O
+koi	hi	O
+limit	en	O
+nahi	hi	O
+kajri	hi	B-PERSON
+depressed	en	O
+now	en	O
+#WhereIsRahul	en	O
+#twtLikSwamy	en	O
+#RahulOnLeave	en	O
+
+# sent_enum = 189
+@Riddhi_Vartak28	rest	O
+sbs	hi	O
+nk	hi	O
+ak	hi	O
+ke	hi	O
+ghar	hi	O
+mahashivratri	rest	O
+
+# sent_enum = 190
+@ravishndtv	rest	O
+sir	hi	O
+aaj	hi	O
+#RailBudget2015	en	O
+k	hi	O
+upar	hi	O
+dhamakedar	hi	O
+primetime	en	O
+show	en	O
+ka	hi	O
+ummid	en	O
+tha	hi	O
+...	rest	O
+aaj	hi	O
+kuch	hi	O
+maja	hi	O
+nahi	hi	O
+aaya	hi	O
+...	rest	O
+may	en	O
+b	en	O
+my	en	O
+expectation	en	O
+was	en	O
+high	en	O
+
+# sent_enum = 191
+Shivji	hi	B-PERSON
+Ki	hi	O
+Savari	hi	O
+#vadodara	rest	O
+#MahaShivratri	rest	O
+#Shivratri	rest	O
+P.C	rest	O
+:	rest	O
+Parth	en	B-PERSON
+Nagar	hi	I-PERSON
+http://t.co/GWCCmhgqpy	en	O
+
+# sent_enum = 192
+March	rest	O
+2	rest	O
+#Oscars2014	rest	O
+-	rest	O
+Selfie	en	O
+becomes	en	O
+Viral	en	O
+mode	en	O
+..	rest	O
+Feb	en	O
+22	rest	O
+#IndvsSA	rest	O
+-	rest	O
+Selfie	en	O
+becomes	en	O
+God	en	O
+mode	en	O
+..	rest	O
+#Oscars2015	rest	O
+
+# sent_enum = 193
+Shiva	rest	B-PERSON
+Wedding	en	O
+Celebrations	en	O
+,	rest	O
+KatasRaj	rest	B-PLACE
+,	rest	O
+Chakwal	hi	B-PLACE
+,	rest	O
+Sargodha	rest	B-PLACE
+,	rest	O
+Pakistan	rest	B-PLACE
+https://t.co/MQ1fjNu5Dn	en	O
+#MahaShivratri	rest	O
+
+# sent_enum = 194
+RT	en	O
+@TamalDas8	rest	O
+:	rest	O
+PIB_India	rest	B-ORGANISATION
+#UHF	rest	O
+Min	en	O
+RailMinIndia	rest	B-ORGANISATION
+,	rest	O
+Sureshpprabhu	rest	B-PERSON
+has	en	O
+started	en	O
+his	en	O
+#RailBudget2015	en	O
+speech	en	O
+in	en	O
+Parliament	en	O
+.	rest	O
+
+# sent_enum = 195
+@TimesNow	en	O
+is	en	O
+umar	hi	O
+me	hi	O
+aise	hi	O
+baat	hi	O
+nhi	hi	O
+karni	hi	O
+chahiye	hi	O
+@digvijaya_28	rest	O
+ki	hi	O
+#WhereIsRahul	en	O
+nhi	hi	O
+to	hi	O
+aapka	hi	O
+bhi	hi	O
+patta	hi	O
+katne	hi	O
+me	hi	O
+der	hi	O
+nhi	hi	O
+lagegi	hi	O
+
+# sent_enum = 196
+Adideva	en	B-PERSON
+,	rest	O
+Adiguru	en	B-PERSON
+,	rest	O
+Nataraja	rest	B-PERSON
+,	rest	O
+Neelkantaha	rest	B-PERSON
+,	rest	O
+Tripurari	rest	B-PERSON
+,	rest	O
+Aja	hi	B-PERSON
+,	rest	O
+Anagha	hi	B-PERSON
+,	rest	O
+Ashutosh	en	B-PERSON
+,	rest	O
+Rudara	rest	B-PERSON
+,	rest	O
+Bholenath	hi	B-PERSON
+,	rest	O
+I	en	O
+bow	en	O
+to	en	O
+thee	en	O
+O	en	O
+Maheshwara	hi	B-PERSON
+.	rest	O
+#MahaShivratri	rest	O
+
+# sent_enum = 197
+Mahashivratri	rest	O
+ki	hi	O
+bahut	hi	O
+bahut	hi	O
+shubhkamnaye	hi	O
+...	rest	O
+Har	hi	O
+Har	hi	O
+Mahadev	rest	B-PERSON
+....	rest	O
+Going	en	O
+Home	en	O
+:)	rest	O
+
+# sent_enum = 198
+#ModiKaBudget	rest	O
+#Budget2015	rest	O
+#Indianbudget	rest	O
+#SuperBudget	en	O
+Jan	hi	O
+Dhan	hi	O
+Yojana	hi	O
+Accident	en	O
+cover	en	O
+will	en	O
+upto	en	O
+2Lakh	rest	O
+:	rest	O
+Update	en	O
+http://t.co/4Qg5JfmqYN	en	O
+
+# sent_enum = 199
+#AjayDevgn	hi	O
+,	rest	O
+47	rest	O
+!	rest	O
+Here	en	O
+are	en	O
+some	en	O
+of	en	O
+his	en	O
+popular	en	O
+dialogues	en	O
+https://t.co/pqUwOY9idB	en	O
+https://t.co/qoxCy8wy2c	en	O
+
+# sent_enum = 200
+RT	en	O
+@coolfunnytshirt	en	O
+:	rest	O
+Maine	hi	O
+daant	hi	O
+tod	hi	O
+dena	hi	O
+hai	hi	O
+Arnab	hi	B-PERSON
+ke	hi	O
+agar	hi	O
+aur	hi	O
+kisi	hi	O
+ka	hi	O
+resignation	en	O
+maanga	hi	O
+toh	hi	O
+!!!	rest	O
+http://t.co/OuPkhWLllf	en	O
+
+# sent_enum = 201
+Such	en	O
+a	en	O
+high	en	O
+voltage	en	O
+match	en	O
+...	rest	O
+but	en	O
+poor	en	O
+poor	en	O
+play	en	O
+by	en	O
+both	en	O
+teams	en	O
+..	rest	O
+kind	en	O
+of	en	O
+bore	en	O
+game	en	O
+..	rest	O
+no	en	O
+chances	en	O
+created	en	O
+by	en	O
+either	en	O
+tram	en	O
+#MUNLIV	rest	O
+
+# sent_enum = 202
+RT	en	O
+@tarsem_insan	en	O
+:	rest	O
+@Gurmeetramrahim	en	O
+#PiousBhandara	rest	O
+"	rest	O
+Mans	rest	O
+ki	hi	O
+jaat	hi	O
+sabhe	hi	O
+ek	hi	O
+pahchanvo	hi	O
+"	rest	O
+Yahi	hi	O
+Samjhaya	hi	O
+h	hi	O
+ap	hi	O
+ji	hi	O
+ne	hi	O
+..	rest	O
+https://t.co/JTwhhnM72O	rest	O
+
+# sent_enum = 203
+Iniesta	en	B-PERSON
+never	en	O
+gets	en	O
+old	en	O
+,	rest	O
+always	en	O
+provides	en	O
+a	en	O
+killer	en	O
+vision	en	O
+followed	en	O
+by	en	O
+a	en	O
+killer	en	O
+pass	en	O
+#ElClasico	en	O
+
+# sent_enum = 204
+RT	en	O
+@aliabbaszafar	rest	O
+:	rest	O
+Organic	en	O
+tamatarrrr	hi	O
+,	rest	O
+sultan	rest	O
+&	rest	O
+Aarfa	rest	B-PERSON
+,	rest	O
+@BeingSalmanKhan	rest	O
+@AnushkaSharma	rest	O
+@BeingSalmanKhan	en	O
+https://t.co/3fg5HWTzSQ	en	O
+
+# sent_enum = 205
+@Gurmeetramrahim	en	O
+#BlockBusterMSG	en	O
+Thanku	en	O
+papa	en	O
+ji	hi	O
+n	hi	O
+ap	hi	O
+ji	hi	O
+ko	hi	O
+bhi	hi	O
+Mahashivratri	rest	O
+ke	hi	O
+bht2	hi	O
+mubark	hi	O
+ho	hi	O
+ji	hi	O
+....!!!!!!!	rest	O
+http://t.co/Tio1nD76t3	en	O
+
+# sent_enum = 206
+Seattle	en	B-PLACE
+Hindu	rest	I-PLACE
+Temple	en	I-PLACE
+Sprayed	en	O
+with	en	O
+Swastika	en	O
+,	rest	O
+Hate	en	O
+Message	en	O
+on	en	O
+Mahashivratri	rest	O
+;	rest	O
+India	rest	B-PLACE
+http://t.co/SqHVQmiDZH	en	O
+#india	rest	O
+
+# sent_enum = 207
+@sidharth_shukla	hi	O
+Mahashivratri	rest	O
+ki	hi	O
+shubh	hi	O
+kaamna	hi	O
+humaare	hi	O
+pyaare	hi	O
+shivji	hi	B-PERSON
+....	rest	O
+good	en	O
+morning	en	O
+...	rest	O
+
+# sent_enum = 208
+RT	en	O
+@Being_Humor	en	O
+:	rest	O
+.	rest	O
+@JhaSanjay	hi	O
+fir	hi	O
+mirror	hi	O
+samne	hi	O
+se	hi	O
+hata	hi	O
+liya	hi	O
+?	rest	O
+
+# sent_enum = 209
+@kesarirang	rest	O
+Pappu	rest	B-PERSON
+ko	hi	O
+gayab	hi	O
+karna	hi	O
+is	en	O
+masterstroke	en	O
+by	en	O
+Congress	en	B-ORGANISATION
+...	rest	O
+Ab	hi	O
+BJP	rest	B-ORGANISATION
+ki	hi	O
+campaigning	en	O
+kaun	hi	O
+karega	hi	O
+?	rest	O
+#RahulOnLeave	en	O
+
+# sent_enum = 210
+Raat	hi	O
+ke	hi	O
+do	hi	O
+baje	hi	O
+ye	hi	O
+trend	en	O
+karne	hi	O
+ke	hi	O
+liye	hi	O
+tweet	en	O
+Kar	hi	O
+rahe	hi	O
+ho	hi	O
+.....	rest	O
+#	rest	O
+_	rest	O
+_	rest	O
+
+# sent_enum = 211
+RT	en	O
+@TamalDas8	rest	O
+:	rest	O
+PIB_India	rest	B-ORGANISATION
+#UHF	rest	O
+Less	en	O
+than	en	O
+100	rest	O
+tweets	en	O
+1	rest	O
+complete	en	O
+Story	en	O
+#RailBudget2015	en	O
+https://t.co/7FX2m9hrgD	en	O
+PMOIndia	rest	B-ORGANISATION
+Narendramodi	rest	B-PERSON
+RailMinI	rest	O
+
+# sent_enum = 212
+@sachin_rt	en	O
+@SachinTheFilm	en	O
+Sachin	en	B-PERSON
+bhaiya	hi	O
+mera	hi	O
+number	en	O
+kab	hi	O
+aayega	hi	O
+Plz	en	O
+mujhe	hi	O
+reply	en	O
+chahiye	hi	O
+Sachin	en	B-PERSON
+bhaiya	hi	O
+plz	en	O
+
+# sent_enum = 213
+RT	en	O
+@SilentlyBeating	en	O
+:	rest	O
+Dhoni	hi	B-PERSON
+be	en	O
+like	en	O
+;	rest	O
+Bhai	hi	O
+bowling	en	O
+bhi	hi	O
+tu	hi	O
+hi	hi	O
+kar	hi	O
+.	rest	O
+
+# sent_enum = 214
+@narendramodi	rest	O
+sir	hi	O
+mujhe	hi	O
+aapki	hi	O
+''''	rest	O
+man	hi	O
+ki	hi	O
+bat	hi	O
+''''	rest	O
+bhut	hi	O
+achha	hi	O
+lga	hi	O
+.	rest	O
+thank	en	O
+you	en	O
+sir	en	O
+
+# sent_enum = 215
+@Gurmeetramrahim	en	O
+#100DaysStillOnTopMSG2	en	O
+iloveu	en	O
+hamara	hi	O
+ye	hi	O
+year	en	O
+bhut	hi	O
+acha	hi	O
+ho	hi	O
+ji	hi	O
+apki	hi	O
+daya	hi	O
+mehar	hi	O
+rehmat	hi	O
+bnai	hi	O
+rakhna	hi	O
+ji	hi	O
+apki	hi	O
+ruhani	hi	O
+lovi	hi	O
+or	hi	O
+me	hi	O
+
+# sent_enum = 216
+RT	en	O
+@Babu_Bhaiyaa	rest	O
+:	rest	O
+Kejriwal	hi	B-PERSON
+-	rest	O
+Modi	rest	B-PERSON
+ji	hi	O
+ye	hi	O
+aapki	hi	O
+Degrees	en	O
+fake	en	O
+hain	hi	O
+.	rest	O
+Modi-	rest	B-PERSON
+Maalum	hi	O
+hai	hi	O
+...	rest	O
+AAPke	hi	O
+Tomar	hi	B-PERSON
+ji	hi	O
+se	hi	O
+hi	hi	O
+toh	hi	O
+banwaai	hi	O
+hain	hi	O
+.	rest	O
+
+# sent_enum = 217
+@Gurmeetramrahim	en	O
+#MSGdedicatesAwardToGuruji	en	O
+Burrrrrraaaaaaaaa	hi	O
+..	rest	O
+KAAL	hi	O
+KI	hi	O
+BAND	hi	O
+Baj	hi	O
+Gyiiiiiiii	hi	O
+..	rest	O
+DyaL	hi	O
+Ki	hi	O
+Hmesa	hi	O
+Ki	hi	O
+Trah	hi	O
+Ble	hi	O
+Ble	hi	O
+Huiiiii	hi	O
+
+# sent_enum = 218
+RT	en	O
+@DarrKeAage	en	O
+:	rest	O
+Vimal	rest	B-ORGANISATION
+Paan	hi	I-ORGANISATION
+Masala	hi	I-ORGANISATION
+.	rest	O
+#25SaaloKaJashn	rest	O
+https://t.co/2bm58EPAai	rest	O
+
+# sent_enum = 219
+RT	en	O
+@sagarcasm	en	O
+:	rest	O
+*	rest	O
+At	en	O
+a	en	O
+medical	en	O
+store	en	O
+*	rest	O
+Kohli	rest	B-PERSON
+-	rest	O
+Bhaiya	hi	O
+condom	en	O
+dena	hi	O
+Shopkeeper	en	O
+-	rest	O
+Kounsa	rest	O
+dun	en	O
+?	rest	O
+Dotted	en	O
+?	rest	O
+Kohli	rest	B-PERSON
+-	rest	O
+Mujhe	hi	O
+dots	en	O
+pasand	hi	O
+nahi	hi	O
+.	rest	O
+#IndvsWI	rest	O
+
+# sent_enum = 220
+RT	en	O
+@Silent_dreamSs	en	O
+:	rest	O
+Yaad	hi	O
+kar	hi	O
+ke	hi	O
+aur	hi	O
+bhi	hi	O
+takLeef	hi	O
+h0ti	hi	O
+hai	hi	O
+.	rest	O
+'	rest	O
+,	rest	O
+~_~	rest	O
+Dear	en	O
+~_~	rest	O
+!	rest	O
+Aata	hi	O
+w0hi	hi	O
+hai	hi	O
+paper	en	O
+mein	hi	O
+jo	hi	O
+hum	hi	O
+ch0rr	en	O
+dety	en	O
+hain	hi	O
+;(	rest	O
+:	rest	O
+
+# sent_enum = 221
+RT	en	O
+AAP_Najafgarh	hi	B-ORGANISATION
+"	rest	O
+RT	en	O
+AamAadmiParty	en	B-ORGANISATION
+:	rest	O
+.	rest	O
+DrKumarVishwas	en	B-PERSON
+and	en	O
+dilipkpandey	en	B-PERSON
+receive	en	O
+a	en	O
+heartwarming	en	O
+welcome	en	O
+by	en	O
+Roorke	en	B-PLACE
+Volu	en	O
+https://t.co/517aBSZuNz	en	O
+"	rest	O
+
+# sent_enum = 222
+RT	en	O
+@IndiaBTL	rest	O
+:	rest	O
+AAP-Cong-Media	rest	B-ORGANISATION
+brigade	en	O
+trending	en	O
+56	rest	O
+Inch	en	O
+ke	hi	O
+sapole	hi	O
+.	rest	O
+This	en	O
+language	en	O
+is	en	O
+the	en	O
+new	en	O
+freedom	en	O
+of	en	O
+speech	en	O
+defined	en	O
+by	en	O
+Kanhaiya-	hi	B-PERSON
+https://t	en	O
+.	rest	O
+
+# sent_enum = 223
+@viramchaubey	en	O
+#tu	rest	O
+ek	hi	O
+harami	hi	O
+hai	hi	O
+ya	hi	O
+sau	hi	O
+harami	hi	O
+....	rest	O
+.?	rest	O
+Yaa	hi	O
+countless	en	O
+ka	hi	O
+hai	hi	O
+
+# sent_enum = 224
+RT	en	O
+@KyaUkhaadLega	hi	O
+:	rest	O
+Reporter	en	O
+:	rest	O
+Gareebi	hi	O
+ke	hi	O
+baare	hi	O
+mai	hi	O
+kya	hi	O
+kahenge	hi	O
+?	rest	O
+KV	rest	O
+:	rest	O
+Jab	hi	O
+gareebi	hi	O
+main	hi	O
+aata	hi	O
+geela	hi	O
+ho	hi	O
+,	rest	O
+to	en	O
+use	en	O
+muh	en	O
+pe	hi	O
+laga	hi	O
+le	hi	O
+,	rest	O
+meri	hi	O
+tarah	hi	O
+!	rest	O
+ht	hi	O
+
+# sent_enum = 225
+RT	en	O
+@KiranKS	rest	O
+:	rest	O
+Dear	en	O
+Rahul	en	B-PERSON
+Gandhi	rest	I-PERSON
+..	rest	O
+#Jisha's	rest	O
+mother	en	O
+is	en	O
+inconsolable	en	O
+.	rest	O
+She	en	O
+lost	en	O
+daughter	en	O
+to	en	O
+a	en	O
+brutal	en	O
+rape	en	O
+&	rest	O
+murder	en	O
+.	rest	O
+You	en	O
+visited	en	O
+her	en	O
+?	rest	O
+https://t	en	O
+
+# sent_enum = 226
+Good	en	O
+news	en	O
+#Mumbai	rest	O
+!	rest	O
+We	en	O
+@Central_Railway	en	O
+will	en	O
+run	en	O
+1st	en	O
+12	en	O
+car	en	O
+rake	en	O
+on	en	O
+harbor	en	O
+line	en	O
+on	en	O
+29thApr	hi	O
+@sureshpprabhu	rest	O
+https://t.co/QMamrW5Ocg	en	O
+
+# sent_enum = 227
+#WhereIsRahul	rest	O
+Anna	rest	B-PERSON
+says	en	O
+to	en	O
+Rahul	en	B-PERSON
+...	rest	O
+Main	hi	O
+Yahan	hi	O
+hun	hi	O
+yahan	hi	O
+hun	hi	O
+yahan	hi	O
+....	rest	O
+phir	hi	O
+bhi	hi	O
+dooriyaan	hi	O
+..?	rest	O
+
+# sent_enum = 228
+MA	hi	O
+to	hi	O
+Modi	rest	B-PERSON
+:	rest	O
+"	rest	O
+Beta	hi	O
+mera	hi	O
+ek	hi	O
+kam	hi	O
+karna	hi	O
+,	rest	O
+meri	hi	O
+taraf	hi	O
+se	hi	O
+bhi	hi	O
+400-500	rest	O
+bomb	en	O
+pak	hi	B-PLACE
+army	en	O
+pe	hi	O
+fenk	hi	O
+dena	hi	O
+"	rest	O
+Modi	rest	B-PERSON
+:	rest	O
+"	rest	O
+bas	hi	O
+itnisi	hi	O
+baat	hi	O
+??	rest	O
+"	rest	O
+http://t.co/x5tq9qWTjd	en	O
+
+# sent_enum = 229
+#RailBudget2015	en	O
+CM	en	O
+Rawat	en	B-PERSON
+Ji	hi	O
+,	rest	O
+Uttarakhand	rest	B-PLACE
+ko	hi	O
+bhi	hi	O
+fully	en	O
+connect	en	O
+karo	hi	O
+Railway	en	B-ORGANISATION
+se	hi	O
+...!!	rest	O
+#Uttarakhand	rest	O
+@PahariTweets	rest	O
+
+# sent_enum = 230
+@TinaSharmaT	rest	O
+Yeh	hi	O
+#IPL9	rest	O
+match	en	O
+mein	hi	O
+maza	hi	O
+nahi	hi	O
+aa	hi	O
+rah	hi	O
+hai	hi	O
+just	en	O
+boring	en	O
+
+# sent_enum = 231
+RT	en	O
+@PWNeha	rest	O
+:	rest	O
+Tum	hi	O
+ball	hi	O
+to	hi	O
+karo	hi	O
+.	rest	O
+RT	en	O
+@Kuldeepverma4	en	O
+:	rest	O
+@pwneha	rest	O
+hello	rest	O
+neha	hi	B-PERSON
+ji	hi	O
+,	rest	O
+plz	en	O
+bat	hi	O
+kro	hi	O
+,	rest	O
+
+# sent_enum = 232
+Passenger	en	O
+fares	en	O
+remain	en	O
+same	en	O
+#RailBudget2015	en	O
+.	rest	O
+@sureshpprabhu	rest	O
+urges	en	O
+Clean	en	O
+Rail	en	O
+Neat	en	O
+India	rest	B-PLACE
+
+# sent_enum = 233
+RT	en	O
+@taran_adarsh	rest	O
+:	rest	O
+#Fan	rest	O
+declines	en	O
+in	en	O
+mass	en	O
+circuits	en	O
+,	rest	O
+but	en	O
+remains	en	O
+strong	en	O
+at	en	O
+urban	en	O
+centres/plexes	en	O
+.	rest	O
+Fri	rest	O
+19.20	rest	O
+cr	rest	O
+,	rest	O
+Sat	hi	O
+15.40	rest	O
+cr	rest	O
+.	rest	O
+Total	en	O
+:	rest	O
+34.60	rest	O
+cr	rest	O
+
+# sent_enum = 234
+*	rest	O
+JAI	hi	O
+*	rest	O
+*	rest	O
+SHIV	hi	B-PERSON
+*	rest	O
+*	rest	O
+SHANKAR	rest	B-PERSON
+*	rest	O
+*	rest	O
+MAHADEV	rest	B-PERSON
+*	rest	O
+Hum	hi	O
+Tamam	hi	O
+Hindu	rest	O
+Brothery	en	O
+Ko	hi	O
+MAHASHIVRATRI	rest	O
+Ki	hi	O
+Lakh	hi	O
+Lakh	hi	O
+Badhai	hi	O
+Dete	hi	O
+Hain	hi	O
+.	rest	O
+By	en	O
+,	rest	O
+RAJESH	rest	B-PERSON
+.	rest	I-PERSON
+N	en	I-PERSON
+.	rest	I-PERSON
+KAPOOR	hi	I-PERSON
+ADVOCATE	en	O
+.	rest	O
+
+# sent_enum = 235
+Slap	rest	O
+KRK	rest	B-PERSON
+!	rest	O
+Woh	hi	O
+nehi	hi	O
+samjhega	hi	O
+#FAN	rest	O
+https://t.co/YVF9vjVVXb	en	O
+
+# sent_enum = 236
+RT	en	O
+@mipaltan	rest	O
+:	rest	O
+WICKET	en	O
+!	rest	O
+Khawaja	hi	B-PERSON
+goes	en	O
+as	en	O
+he	en	O
+nicks	en	O
+one	en	O
+to	hi	O
+Dhoni	hi	B-PERSON
+.	rest	O
+Nehra	rest	B-PERSON
+with	en	O
+the	en	O
+wicket	en	O
+and	en	O
+#AUS	hi	O
+are	hi	O
+54/1	rest	O
+in	en	O
+4.2	rest	O
+overs	en	O
+#IndvsAus	rest	O
+https://t.co/3e	en	O
+
+# sent_enum = 237
+Mahashivratri	rest	O
+Parv	rest	O
+Hai	hi	O
+Paawan	hi	O
+Anuradha	rest	B-PERSON
+Paudwal	rest	I-PERSON
+[	rest	O
+Full	en	O
+Video	en	O
+Song	en	O
+]	en	O
+I	en	O
+Om	en	O
+http://t.co/HypjFiOqfV	en	O
+#Hindus	rest	O
+#Hinduism	rest	O
+http://t.co/7ekreMqshO	en	O
+
+# sent_enum = 238
+Jab	hi	O
+desh	hi	O
+mein	hi	O
+thi	hi	O
+Diwali	hi	O
+...	rest	O
+Wo	hi	O
+khel	hi	O
+rahe	hi	O
+the	hi	O
+Holi	hi	O
+...	rest	O
+Jab	hi	O
+hum	hi	O
+baithe	hi	O
+the	hi	O
+gharon	hi	O
+mein	hi	O
+...	rest	O
+Wo	hi	O
+jhel	hi	O
+rhe	hi	O
+the	hi	O
+goli	hi	O
+...	rest	O
+#Salute2IndianForces	rest	O
+
+# sent_enum = 239
+Deja	rest	O
+Vu	rest	O
+??	rest	O
+5wickets	en	O
+bu	hi	O
+pak	hi	O
+bowler	en	O
+,	rest	O
+afridi's	en	B-PERSON
+same	en	O
+dismissal	en	O
+,	rest	O
+similar	en	O
+last	en	O
+wicket	en	O
+,	rest	O
+middle	en	O
+order	en	O
+collapse	en	O
+,	rest	O
+misbah	rest	B-PERSON
+playing	en	O
+alone	en	O
+..	rest	O
+#CWC15	rest	O
+#IndWins	rest	O
+
+# sent_enum = 240
+@pandyas0599	rest	O
+Gud	en	O
+mrng	en	O
+sir	hi	O
+aapko	hi	O
+Mahashivratri	rest	O
+ki	hi	O
+hardik	hi	O
+mangalkamnaye	hi	O
+:)	rest	O
+
+# sent_enum = 241
+RT	en	O
+@NITIKABjp	rest	O
+:	rest	O
+IndiaHistorypic	rest	O
+:	rest	O
+1980s	rest	O
+::	rest	O
+Mahakaleshwar	hi	B-PLACE
+Temple	en	I-PLACE
+,	rest	O
+Ujjain	rest	B-PLACE
+,	rest	O
+one	en	O
+of	en	O
+12	en	O
+Jyotirlingas	en	O
+of	en	O
+Lord	en	O
+Shiva	rest	B-PERSON
+#Mahashivratri	rest	O
+#Jai	rest	O
+#Mahakal	rest	O
+http	en	O
+:/	rest	O
+
+# sent_enum = 242
+#RailBudget2015	en	O
+Overwh	en	O
+steps	en	O
+2	rest	O
+invlve	en	O
+inst	en	O
+lk	hi	O
+ISRO	rest	B-ORGANISATION
+,	rest	O
+NID	rest	B-ORGANISATION
+,	rest	O
+IITs	en	B-ORGANISATION
+in	en	O
+dev	hi	O
+pro	hi	O
+Prabhuji	hi	B-PERSON
+dhanya	hi	O
+ho	hi	O
+.	rest	O
+@sureshpprabhu	rest	O
+@amansinhalaw	rest	O
+#RailwayKaPunarjanma	rest	O
+
+# sent_enum = 243
+Meanwhile	en	O
+Dhoni	hi	B-PERSON
+said	en	O
+Abh	hi	O
+Papa	hi	O
+hu	hi	O
+,	rest	O
+Papa	hi	O
+ko	hi	O
+sikhane	hi	O
+chale	hi	O
+the	hi	O
+:P	rest	O
+#Indvspak	rest	O
+#Sixzero	rest	O
+#Afridi	rest	O
+
+# sent_enum = 244
+@ishquirrel_	rest	O
+fatte	hi	O
+doodh	hi	O
+ko	hi	O
+kapde	hi	O
+se	hi	O
+chaan	hi	O
+lo	hi	O
+..	rest	O
+Phir	hi	O
+jo	hi	O
+bachega	hi	O
+wo	hi	O
+paneer	hi	O
+hai	hi	O
+
+# sent_enum = 245
+Day	en	O
+well	en	O
+spend	en	O
+:-)	rest	O
+Mahashivratri	rest	O
+.....	rest	O
+Kapaleshwar	hi	B-PLACE
+O:	rest	O
+-)	rest	O
+Someshwar	en	B-PLACE
+O:	rest	O
+-)	rest	O
+Om	rest	O
+Namah	rest	O
+Shivaya	rest	B-PERSON
+http://t.co/aQWF5eCOzA	en	O
+
+# sent_enum = 246
+!!!!!	rest	O
+Mahashivratri	rest	O
+Special	en	O
+offer	en	O
+!!!!!!	rest	O
+Buy	en	O
+Sabudana	rest	O
+@	rest	O
+64/-	rest	O
+kg	hi	O
+(	rest	O
+MRP	rest	O
+:	rest	O
+.	rest	O
+75/-)	rest	O
+15%	rest	O
+off	en	O
+Buy	en	O
+Varalakshmi	rest	O
+...	rest	O
+http://t.co/J2YIXpdDAN	rest	O
+
+# sent_enum = 247
+"	rest	O
+@mohituraina	rest	O
+:	rest	O
+Om	rest	O
+Namah	rest	O
+Shivay	rest	O
+"	rest	O
+Har	hi	O
+har	hi	O
+Mahadev	rest	B-PERSON
+.	rest	O
+Happy	en	O
+MahaShivratri	rest	O
+@mohituraina	rest	O
+@Roymouni	en	O
+@BSonarika	rest	O
+
+# sent_enum = 248
+@Shreela22	rest	O
+continuously	en	O
+wahi	hi	O
+india	rest	B-PLACE
+bought	en	O
+ICC	rest	B-ORGANISATION
+hahaha	rest	O
+:p	rest	O
+
+# sent_enum = 249
+Jo	hi	O
+Guru	hi	O
+hi	hi	O
+vo	hi	O
+hi	hi	O
+Shiv	hi	B-PERSON
+hai	hi	O
+is	hi	O
+nimita	hi	O
+#Rudrabhishekh	hi	O
+kia	hi	O
+#MahaShivratri	rest	O
+@ashramindia	rest	O
+@TruthRoars	en	O
+@14FebPWDay	en	O
+@EeshHindu	rest	O
+http://t.co/1u8Nqug3Ox	en	O
+
+# sent_enum = 250
+Aaj	hi	O
+se	hi	O
+do	hi	O
+saal	hi	O
+pahle	hi	O
+log	hi	O
+kapde	hi	O
+ki	hi	O
+jagah	hi	O
+patte	hi	O
+bandh	hi	O
+ke	hi	O
+ghumte	hi	O
+the	hi	O
+,	rest	O
+bailgadi	hi	O
+se	hi	O
+chalet	hi	O
+the	hi	O
+#NaMoInSansad	rest	O
+
+# sent_enum = 251
+@aajtak	rest	O
+r	en	O
+ur	en	O
+reporters	en	O
+insane	en	O
+,	rest	O
+@sureshpprabhu	rest	O
+marathi	hi	O
+hai	hi	O
+to	hi	O
+mumbai	hi	B-PLACE
+ko	hi	O
+kya	hi	O
+milta	hi	O
+hai	hi	O
+.	rest	O
+r	en	O
+u	en	O
+guys	en	O
+anti	en	O
+national	en	O
+.	rest	O
+@rahulkanwal	rest	O
+#RailBudget2015	rest	O
+
+# sent_enum = 252
+RT	en	O
+@InternetHippo	en	O
+:	rest	O
+*	rest	O
+suffers	en	O
+a	en	O
+mild	en	O
+public	en	O
+embarrassment	en	O
+*	rest	O
+ME	en	O
+:	rest	O
+https://t.co/lxCgS0yUI0	en	O
+
+# sent_enum = 253
+RT	en	O
+@AAPInNews	en	O
+:	rest	O
+#AAP	rest	O
+Vaiko	rest	B-PERSON
+meets	en	O
+Arvind	en	B-PERSON
+Kejriwal	en	I-PERSON
+,	rest	O
+stresses	en	O
+on	en	O
+full	en	O
+statehood	en	O
+to	hi	O
+Delhi	rest	B-PLACE
+,	rest	O
+Puducherry	en	B-PLACE
+-	rest	O
+http://t.co/dkTeIQnyog	en	O
+http://t.co/WqNI	en	O
+
+# sent_enum = 254
+Sir	hi	O
+ishwar	hi	O
+aapko	hi	O
+shakti	hi	O
+de	hi	O
+mere	hi	O
+tarf	hi	O
+se	hi	O
+aapko	hi	O
+lots	en	O
+of	en	O
+pyaar	hi	O
+
+# sent_enum = 255
+Hara	hi	O
+Hara	hi	O
+Mahadeva	rest	B-PERSON
+...	rest	O
+Shambo	rest	B-PERSON
+Shankara	rest	B-PERSON
+!	rest	O
+Happy	en	O
+Maha	hi	O
+Shivaratri	rest	O
+to	en	O
+all	en	O
+!	rest	O
+Om	rest	O
+Namah	rest	O
+Shivaiah	rest	B-PERSON
+#MahaShivratri	rest	O
+
+# sent_enum = 256
+#MahaShivratri	rest	O
+pe	hi	O
+doodh	hi	O
+waste	en	O
+na	hi	O
+karne	hi	O
+wale	hi	O
+,	rest	O
+plz	en	O
+bataye	hi	O
+ki	hi	O
+cake	hi	O
+pe	hi	O
+candle	en	O
+laga	hi	O
+ke	hi	O
+phoonk	hi	O
+maarne	hi	O
+mein	hi	O
+kya	hi	O
+Logic	rest	O
+hai	hi	O
+???	rest	O
+:-D	rest	O
+#	rest	O
+
+# sent_enum = 257
+@ANI_news	rest	O
+Kyunki	hi	O
+Sara	hi	O
+Vipaksha	rest	O
+Aatankwad	hi	O
+k	hi	O
+paksh	hi	O
+main	hi	O
+aa	hi	O
+Kar	hi	O
+khada	hi	O
+Ho	hi	O
+jada	hi	O
+hai	hi	O
+
+# sent_enum = 258
+RT	en	O
+@mesmerizer_i	en	O
+:	rest	O
+For	en	O
+me	hi	O
+2	rest	O
+Oct	en	O
+isn't	en	O
+gandhi	hi	B-PERSON
+jayanti.me	hi	O
+celebrating	en	O
+d	en	O
+bday	en	O
+of	en	O
+great	en	O
+great	en	O
+l	en	O
+b	hi	O
+shastri	hi	B-PERSON
+ji	hi	O
+,	rest	O
+gandhi	rest	B-PERSON
+was	en	O
+a	en	O
+self	en	O
+proclaimed	en	O
+"	rest	O
+mahat	rest	O
+
+# sent_enum = 259
+#Temper	en	O
+#MahaShivratri	rest	O
+spl	en	O
+mid	en	O
+ni8	en	O
+shows	en	O
+@	rest	O
+Lakshmikala	rest	B-PLACE
+nd	en	O
+Shasikala	rest	B-PLACE
+(	rest	O
+Moosapet	en	B-PLACE
+)	rest	O
+12:45	rest	O
+am	en	O
+in	en	O
+both	en	O
+
+# sent_enum = 260
+Salutations	en	O
+to	hi	O
+Maharudh	hi	B-PERSON
+.	rest	O
+Devon	en	O
+ka	hi	O
+Dev	hi	O
+Mahadev	rest	B-PERSON
+#MahaShivratri	rest	O
+
+# sent_enum = 261
+Capital	en	O
+punishment	en	O
+by	en	O
+shooting	en	O
+in	en	O
+public	en	O
+should	en	O
+be	en	O
+awarded	en	O
+by	en	O
+law	en	O
+to	en	O
+send	en	O
+the	en	O
+message	en	O
+!!	rest	O
+#KyaBiharMeinSarkaarHai	hi	O
+?	rest	O
+https://t.co/0Lc4xNE4iR	en	O
+
+# sent_enum = 262
+Hai	hi	O
+apna	hi	O
+dil	hi	O
+to	hi	O
+aawara	hi	O
+...	rest	O
+Na	hi	O
+jane	hi	O
+kis	hi	O
+p	hi	O
+aayega	hi	O
+
+# sent_enum = 263
+Good	en	O
+one	en	O
+recvd	en	O
+on	en	O
+#whatsapp	hi	O
+Na	hi	O
+Ishq	hi	O
+Mein	hi	O
+Hai	hi	O
+Na	hi	O
+Pyaar	hi	O
+Mein	hi	O
+Hai	hi	O
+Jo	hi	O
+Maza	hi	O
+Pakistan	rest	B-PLACE
+Ki	hi	O
+Haar	hi	O
+Mein	hi	O
+Hai	hi	O
+#IndvsPak	rest	O
+http://t.co/RlOL5QMFol	en	O
+
+# sent_enum = 264
+RT	en	O
+@LFC	rest	O
+:	rest	O
+Confirmed	en	O
+#LFC	rest	O
+starting	en	O
+XI	en	O
+to	en	O
+face	en	O
+@BVB	rest	O
+:	rest	O
+Mignolet	en	B-PERSON
+,	rest	O
+Clyne	en	B-PERSON
+,	rest	O
+Lovren	en	B-PERSON
+,	rest	O
+Sakho	hi	B-PERSON
+,	rest	O
+Moreno	en	B-PERSON
+,	rest	O
+Can	en	B-PERSON
+,	rest	O
+Milner	en	B-PERSON
+,	rest	O
+Lallana	rest	B-PERSON
+,	rest	O
+Coutinho	en	B-PERSON
+,	rest	O
+Firmino	en	B-PERSON
+,	rest	O
+Origi	en	B-PERSON
+.	rest	O
+
+# sent_enum = 265
+@tiwari_sd	en	O
+@digvijaya_28	rest	O
+diggi	hi	O
+Chacha	hi	O
+plz	en	O
+clarify	en	O
+education	en	O
+of	en	O
+Madamji	en	O
+n	en	O
+Rahul	en	B-PERSON
+baba	hi	O
+?	rest	O
+all	en	O
+congress	en	B-ORGANISATION
+party's	en	O
+reputation	en	O
+at	en	O
+stake	en	O
+
+# sent_enum = 266
+@Gurmeetramrahim	en	O
+Congratulations	en	O
+Guru	hi	O
+ji	hi	O
+.	rest	O
+Wooow	en	O
+!	rest	O
+#MSGdedicatesAwardToAllFans	en	O
+
+# sent_enum = 267
+"	rest	O
+#lol	rest	O
+...	rest	O
+#Ireland	rest	O
+ye	hi	O
+to	hi	O
+tumhaari	hi	O
+batting	en	O
+ka	hi	O
+#Pakistan	rest	O
+ho	hi	O
+gaya	hi	O
+#CWC15	rest	O
+#INDvsIRE	rest	O
+"	rest	O
+
+# sent_enum = 268
+Still	en	O
+keeping	en	O
+myself	en	O
+away	en	O
+from	en	O
+Urban	en	O
+Poor	en	O
+stuff	en	O
+.	rest	O
+
+# sent_enum = 269
+Bholey	hi	B-PERSON
+baba	hi	I-PERSON
+paar	hi	O
+karega	hi	O
+??	rest	O
+"	rest	O
+@bhairavigoswami	rest	O
+:	rest	O
+Seeking	en	O
+blessings	en	O
+for	en	O
+#MahaShivratri	rest	O
+???	rest	O
+http://t.co/8ZQqnI3fJf	en	O
+"	rest	O
+
+# sent_enum = 270
+RT	en	O
+@SumanthTarak	rest	O
+:	rest	O
+what	en	O
+is	en	O
+the	en	O
+day1	en	O
+hindi	en	O
+version	en	O
+collection	en	O
+sir	en	O
+??	rest	O
+#SardaarGabbarSingh	rest	O
+@Rentrak	en	O
+@taran_adarsh	rest	O
+
+# sent_enum = 271
+RT	en	O
+@Main_Bhagwan	rest	O
+:	rest	O
+Soch	hi	O
+raha	hi	O
+hoo	hi	O
+iss	hi	O
+baar	hi	O
+phir	hi	O
+se	hi	O
+India	rest	B-PLACE
+ko	hi	O
+World	en	O
+Cup	en	O
+dilwa	hi	O
+doo	hi	O
+.	rest	O
+What	en	O
+do	en	O
+you	en	O
+think	en	O
+?	rest	O
+#IndvsSA	rest	O
+#CWC15	rest	O
+#BleedBlue	en	O
+
+# sent_enum = 272
+RT	en	O
+if	en	O
+you've	en	O
+enjoyed	en	O
+Farali	rest	O
+Bafvada	rest	O
+&	rest	O
+sabudana	hi	O
+Khichdi	hi	O
+#MahaShivratri	rest	O
+
+# sent_enum = 273
+RT	en	O
+@GokuSaifian	rest	O
+:	rest	O
+@taran_adarsh	rest	O
+dekh	hi	O
+lena	hi	O
+kangna	hi	B-PERSON
+pregnant	en	O
+ho	hi	O
+jayegi	hi	O
+film	hi	O
+khatam	hi	O
+hone	hi	O
+tak	hi	O
+#irresistible	en	O
+
+# sent_enum = 274
+Sri	hi	O
+Lankan	rest	O
+president	en	O
+Maithripala	en	B-PERSON
+Sirisena	en	I-PERSON
+offers	en	O
+prayers	en	O
+at	en	O
+Mahabodhi	rest	B-PLACE
+temple	en	I-PLACE
+on	en	O
+Mahashivratri	rest	O
+http://t.co/x02dHZSFxj	rest	O
+
+# sent_enum = 275
+@rranjan501	rest	O
+@ThinkersPad	en	O
+@NavbharatTimes	en	O
+arre	hi	O
+Rawat	hi	B-PERSON
+sahab	hi	O
+agar	hi	O
+bjp	rest	B-ORGANISATION
+aisa	hi	O
+kar	hi	O
+rahi	hi	O
+hai	hi	O
+to	hi	O
+kisne	hi	O
+sikhaya	hi	O
+hai	hi	O
+yeh	hi	O
+?	rest	O
+Congress	en	B-ORGANISATION
+ka	hi	O
+formula	en	O
+hai	hi	O
+.	rest	O
+
+# sent_enum = 276
+Rahul	en	B-PERSON
+Gandhi	rest	I-PERSON
+in	en	O
+Uttarkhand	en	B-PLACE
+for	en	O
+"	rest	O
+Camping	en	O
+Chintan	rest	O
+"	rest	O
+..	rest	O
+:P	rest	O
+#WhereIsRahul	rest	O
+
+# sent_enum = 277
+@hemantbuch	rest	O
+eska	hi	O
+naam	hi	O
+hai	hi	O
+pyaaz	hi	O
+apna	hi	O
+naam	hi	O
+toh	hi	O
+decent	en	O
+sa	hi	O
+rakh	hi	O
+lete	hi	O
+ghatiya	hi	O
+insaan	hi	O
+
+# sent_enum = 278
+@rucsb	en	O
+a	en	O
+line	en	O
+by	en	O
+the	en	O
+Hindi	en	O
+poet	en	O
+-	rest	O
+Shiv	hi	B-PERSON
+Mangal	hi	I-PERSON
+Singh	rest	I-PERSON
+-Suman	rest	B-PERSON
+.	rest	O
+Former	en	O
+PM	rest	O
+Atalji	hi	B-PERSON
+often	en	O
+recited	en	O
+these	en	O
+lines	en	O
+:)	rest	O
+
+# sent_enum = 279
+@Varunliciouss	en	O
+itna	hi	O
+saara	hi	O
+matlab	hi	O
+bas	hi	O
+ek	hi	O
+chinti	hi	O
+jitna	hi	O
+?	rest	O
+:P	rest	O
+
+# sent_enum = 280
+RT	en	O
+@HaramiParindey	rest	O
+:	rest	O
+Pic	en	O
+1	rest	O
+:	rest	O
+Bangladesh	rest	B-PLACE
+fans	en	O
+before	en	O
+the	en	O
+match	en	O
+.	rest	O
+Pic	en	O
+2	rest	O
+:	rest	O
+Bangladesh	rest	B-PLACE
+fans	en	O
+after	en	O
+the	en	O
+match	en	O
+.	rest	O
+#AsiaCupT20Final	rest	O
+#IndvsBan	rest	O
+https	en	O
+:/	rest	O
+
+# sent_enum = 281
+:	rest	O
+LAST	en	O
+NIGHT	en	O
+MAHASHIVRATRI	rest	O
+RUDRABHISHEK	rest	O
+.....	rest	O
+Nau	rest	O
+grah	rest	O
+,	rest	O
+Gauri	hi	B-PERSON
+Ganesh	en	B-PERSON
+and	en	O
+anya	hi	O
+devi	hi	O
+devta	hi	O
+http://t.co/xBcBWCz8aY	en	O
+
+# sent_enum = 282
+@CricCrazyNIKS	en	O
+han	hi	O
+yahi	hi	O
+maine	hi	O
+bhi	hi	O
+socha	hi	O
+tha	hi	O
+.	rest	O
+baaki	hi	O
+koi	hi	O
+kid	en	O
+zid	hi	O
+kar	hi	O
+raha	hi	O
+hoga	hi	O
+to	hi	O
+baby	en	O
+ki	hi	O
+jagah	hi	O
+use	hi	O
+khila	hi	O
+denge	hi	O
+.	rest	O
+
+# sent_enum = 283
+kaali-peelis	hi	O
+VS	rest	O
+uber	en	B-ORGANISATION
+/	rest	O
+ola	rest	B-ORGANISATION
+...	rest	O
+Adapt	en	O
+or	hi	O
+Perish	rest	O
+!	rest	O
+#mantra	rest	O
+#mumbai	rest	O
+https://t.co/ECbnlwlgnb	en	O
+
+# sent_enum = 284
+Daamad	hi	O
+ji	hi	O
+on	en	O
+the	en	O
+pitch	en	O
+.	rest	O
+#ShoibMalik	rest	O
+#IndvsPak	rest	O
+
+# sent_enum = 285
+@TheJungleBook	en	O
+is	en	O
+awesome	en	O
+!	rest	O
+Better	en	O
+to	en	O
+watch	en	O
+in	en	O
+Hindi	en	O
+esp	en	O
+to	en	O
+listen	en	O
+to	hi	O
+Nana	hi	B-PERSON
+Patekar	hi	I-PERSON
+as	hi	O
+Shere	hi	B-PERSON
+Khan	hi	I-PERSON
+"	rest	O
+again	en	O
+"	rest	O
+!	rest	O
+Irrfan	en	B-PERSON
+and	en	O
+Om	en	B-PERSON
+Puri	hi	I-PERSON
+were	en	O
+too	en	O
+good	en	O
+!	rest	O
+
+# sent_enum = 286
+RT	en	O
+RailMinIndia	rest	B-ORGANISATION
+:	rest	O
+JV	rest	O
+with	en	O
+major	en	O
+public	en	O
+sector	en	O
+companies	en	O
+for	en	O
+meeting	en	O
+requirements	en	O
+of	en	O
+new	en	O
+lines	en	O
+#RailBudget2015	en	O
+Catch	en	O
+https://t.co/NDPz6eK2Jr	en	O
+
+# sent_enum = 287
+@Leopard212	en	O
+@semubhatt	en	O
+crisp	en	O
+aalu	hi	O
+bhajia&vada	hi	O
+paav	hi	O
+Mumbai	rest	B-PLACE
+100	rest	O
+Delhi	rest	B-PLACE
+10	rest	O
+
+# sent_enum = 288
+RT	en	O
+@HyperHegde	en	O
+:	rest	O
+Can't	en	O
+comment	en	O
+on	en	O
+degree	en	O
+but	en	O
+it	en	O
+is	en	O
+true	en	O
+that	en	O
+Bachelor	hi	O
+hai	hi	O
+our	en	O
+master	en	O
+bhi	hi	O
+hai	hi	O
+#KejriwalSaySorry	en	O
+
+# sent_enum = 289
+Politics	en	O
+parties	en	O
+Obama	rest	B-PERSON
+ji	hi	O
+se	hi	O
+seekhe	hi	O
+apne	hi	O
+bhashan	hi	O
+me	hi	O
+ek	hi	O
+dusre	hi	O
+pr	hi	O
+nishana	hi	O
+saadhne	hi	O
+ke	hi	O
+alawa	hi	O
+sirf	hi	O
+'	rest	O
+Namastey	rest	O
+'	rest	O
+hi	hi	O
+kahde	hi	O
+to	hi	O
+baat	hi	O
+ban	hi	O
+jaayegi	hi	O
+..	rest	O
+
+# sent_enum = 290
+Dear	en	O
+@ArvindKejriwal	en	O
+Delhi	rest	B-PLACE
+ko	hi	O
+bhi	hi	O
+#azadi	hi	O
+de	hi	O
+de	hi	O
+...	rest	O
+Tujhe	hi	O
+to	hi	O
+chutzpa	hi	O
+hi	hi	O
+karna	hi	O
+hai	hi	O
+na	hi	O
+,	rest	O
+Bina	hi	O
+CM	rest	O
+rahe	hi	O
+bhi	hi	O
+kar	hi	O
+lega	hi	O
+...	rest	O
+
+# sent_enum = 291
+RT	en	O
+@_Ummi93_	rest	O
+:	rest	O
+Awais	hi	B-PERSON
+DM	hi	O
+me	hi	O
+line	hi	O
+mar	hi	O
+raha	hi	O
+he	hi	O
+Bande	hi	O
+da	hi	O
+puttar	hi	O
+banja	rest	O
+!!	rest	O
+:3	rest	O
+
+# sent_enum = 292
+RT	en	O
+@GoT_Urdu	rest	O
+:	rest	O
+"	rest	O
+Sardar	rest	O
+,	rest	O
+ye	hi	O
+parking	en	O
+main	hi	O
+khari	hi	O
+gaariyon	hi	O
+ke	hi	O
+side-mirror	en	O
+churaati	hi	O
+pakri	hi	O
+gai	hi	O
+hai	hi	O
+.	rest	O
+"	rest	O
+https://t.co/4npNBkuXto	en	O
+
+# sent_enum = 293
+Joint	en	O
+ventures	en	O
+with	en	O
+major	en	O
+public	en	O
+sector	en	O
+companies	en	O
+for	en	O
+meeting	en	O
+requirements	en	O
+of	en	O
+new	en	O
+lines	en	O
+:	rest	O
+Suresh	en	B-PERSON
+Prabhu	rest	I-PERSON
+#RailBudget2015	rest	O
+
+# sent_enum = 294
+Retired	en	O
+admiral	en	O
+says	en	O
+the	en	O
+unsayable	hi	O
+about	en	O
+Islam	rest	O
+&	rest	O
+Obama	rest	B-PERSON
+http://t.co/XU4TT1Bwx3	en	O
+#MahaShivratri	rest	O
+#	rest	O
+#ArnubVsFreeSpeech	en	O
+#MustWatchMSG	en	O
+di	hi	O
+ka	hi	O
+he	hi	O
+
+# sent_enum = 295
+RT	en	O
+@NamitaInsan	rest	O
+:	rest	O
+@Gurmeetramrahim	en	O
+#MustWatchMSG	en	O
+piti	hi	O
+bhut	hi	O
+he	hi	O
+shandar	rest	O
+acting	en	O
+the	en	O
+apji	hi	O
+ke	hi	O
+movie	en	O
+m	en	O
+nd	en	O
+mazaa	hi	O
+he	hi	O
+aa	hi	O
+gya	hi	O
+sacheee	hi	O
+love	en	O
+u	en	O
+
+# sent_enum = 296
+@RifatJawaid	en	O
+Oh	en	O
+yeah	en	O
+,	rest	O
+you	en	O
+are	en	O
+supporting	en	O
+a	en	O
+state(pakistan	rest	O
+)	rest	O
+hounding	en	O
+an	en	O
+individual(	rest	O
+@TarekFatah	hi	O
+)for	en	O
+his	en	O
+veiws	en	O
+!	rest	O
+Bravo	en	O
+fake	en	O
+liberal	en	O
+.	rest	O
+
+# sent_enum = 297
+#MahaShivratri	rest	O
+#Satpal_Paliya	rest	O
+Online	en	O
+Team	en	O
+Satpal	en	B-PERSON
+Paliya	en	I-PERSON
+http://t.co/NhKIaH4Ypo	en	O
+
+# sent_enum = 298
+@LittleJudgyEyes	en	O
+yar	hi	O
+sahi	hi	O
+toh	hi	O
+hai	hi	O
+vodafone	en	B-ORGANISATION
+.	rest	O
+Kya	hi	O
+issue	en	O
+hai	hi	O
+?	rest	O
+
+# sent_enum = 299
+@ICC	rest	O
+@cricketworldcup	en	O
+#CWC15	rest	O
+#IndvsPak	rest	O
+Kal	hi	O
+chillana	hi	O
+zarur	hi	O
+par	hi	O
+sirf	hi	O
+INDIA	rest	B-PLACE
+INDIA	rest	B-PLACE
+q	rest	O
+k	hi	O
+PAK	hi	B-PLACE
+PAK	hi	B-PLACE
+to	hi	O
+murhiyaan	hi	O
+b	hi	O
+karti	hi	O
+hai	hi	O
+
+# sent_enum = 300
+@rai_vipul	en	O
+@Singhlicious	en	O
+sahi	hi	O
+hai	hi	O
+..	rest	O
+hehe	rest	O
+:D	rest	O
+
+# sent_enum = 301
+Happy	en	O
+Mahashivratri	rest	O
+.	rest	O
+OM	rest	O
+NAMAH	rest	O
+SHIVAYA	rest	O
+..	rest	O
+HAR	hi	O
+HAR	hi	O
+MAHADEV	rest	B-PERSON
+http://t.co/BQkEgpkhqV	en	O
+
+# sent_enum = 302
+"	rest	O
+Om	rest	O
+Namah	rest	O
+Shivaya	rest	B-PERSON
+"	rest	O
+#MahaShivratri	rest	O
+Wishes	en	O
+:)	rest	O
+http://t.co/5uf6F8TVBi	en	O
+
+# sent_enum = 303
+Alia	hi	B-PERSON
+bhatt	hi	I-PERSON
+is	en	O
+wondering	en	O
+why	en	O
+Sohail	en	B-PERSON
+Khan	hi	I-PERSON
+is	en	O
+playing	en	O
+for	en	O
+Pakistan	rest	B-PLACE
+....	rest	O
+#IndvsPak	rest	O
+
+# sent_enum = 304
+Ye	hi	O
+log	hi	O
+ko	hi	O
+sehi	hi	O
+mein	hi	O
+milta	hi	O
+he	hi	O
+ki	hi	O
+...	rest	O
+jhut	hi	O
+mut	hi	O
+ka	hi	O
+bol	hi	O
+dete	hi	O
+hein	hi	O
+...	rest	O
+wese	hi	O
+v	hi	O
+kisko	hi	O
+pata	hi	O
+chalne	hi	O
+wala	hi	O
+he	hi	O
+..	rest	O
+https://t.co/cLmJ0sK1Dk	en	O
+
+# sent_enum = 305
+Looks	en	O
+like	en	O
+a	hi	O
+kangana	hi	B-PERSON
+Fan	en	O
+on	en	O
+my	en	O
+TL	en	O
+
+# sent_enum = 306
+@BhumikaShah7	hi	O
+karelaa	hi	O
+.	rest	O
+.	rest	O
+Aur	hi	O
+zoom	en	O
+kiyaa	hi	O
+hota	hi	O
+to	hi	O
+allien	en	O
+dikhta	hi	O
+.	rest	O
+.	rest	O
+
+# sent_enum = 307
+RT	en	O
+@TrueIndology	en	O
+:	rest	O
+Swords	en	O
+,	rest	O
+matchlocks	en	O
+,	rest	O
+hoses	en	O
+,	rest	O
+elephants	en	O
+....	rest	O
+Akbar	hi	B-PERSON
+used	en	O
+everything	en	O
+against	en	O
+pilgrim	en	O
+sannyasis(4	rest	O
+)	rest	O
+https://t.co/ojTbCjLmip	en	O
+
+# sent_enum = 308
+Chief	rest	O
+Minister	en	O
+Shivraj	rest	B-PERSON
+Singh	rest	I-PERSON
+Chouhan	rest	I-PERSON
+and	en	O
+his	en	O
+wife	en	O
+Sadhana	rest	B-PERSON
+Singh	en	I-PERSON
+performed	en	O
+Puja	en	O
+on	en	O
+Mahashivratri	rest	O
+:	rest	O
+By	en	O
+Himansha	rest	B-PERSON
+,	rest	O
+...	rest	O
+http://t.co/kz7Q3CRpBR	en	O
+
+# sent_enum = 309
+Kumar	hi	B-PERSON
+Visvas	en	I-PERSON
+on	en	O
+Aap	hi	B-ORGANISATION
+ki	hi	I-ORGANISATION
+Adalat	hi	I-ORGANISATION
+....	rest	O
+feeling	en	O
+Lol	en	O
+..	rest	O
+
+# sent_enum = 310
+@Gurmeetramrahim	en	O
+#MSGrequest	en	O
+ji	hi	O
+pita	hi	O
+ji	hi	O
+aapki	hi	O
+rehmat	hi	O
+se	hi	O
+hm	hi	O
+sada	hi	O
+achhe	hi	O
+kaam	hi	O
+kre	hi	O
+
+# sent_enum = 311
+@	rest	O
+Deggii	en	O
+Raja-Rahul	rest	B-PERSON
+Gandhi	rest	I-PERSON
+ki	hi	O
+Pl	en	O
+accumulate	en	O
+ho	hi	O
+gaye	hi	O
+the	hi	O
+.	rest	O
+Agr	hi	O
+wo	hi	O
+nahi	hi	O
+lete	hi	O
+tho	hi	O
+laps	hi	O
+ho	hi	O
+jate	hi	O
+#WhereIsRahulGandhi	rest	O
+#WhereIsRahul	rest	O
+
+# sent_enum = 312
+@badrirag	rest	O
+@ArvindKejriwal	rest	O
+Tere	hi	O
+ko	hi	O
+kyun	hi	O
+jal	hi	O
+rahi	hi	O
+hai	hi	O
+agar	hi	O
+koi	hi	O
+apne	hi	O
+PM	rest	O
+ki	hi	O
+degree	en	O
+demand	en	O
+kar	hi	O
+raha	hi	O
+hai	hi	O
+?	rest	O
+
+# sent_enum = 313
+@KapilMishraAAP	rest	O
+sir	en	O
+politics	en	O
+ne	hi	O
+itna	hi	O
+dump	en	O
+banaya	hi	O
+ya	hi	O
+bachpan	hi	O
+se	hi	O
+hi	hi	O
+aise	hi	O
+ho	hi	O
+???	rest	O
+
+# sent_enum = 314
+#MaheshBabu	rest	O
+Felicitates	en	O
+#ThumpsUp	en	O
+Thunder	en	O
+Challenge	en	O
+Winners	en	O
+At	en	O
+#Paradise	en	O
+Photos	en	O
+https://t.co/334xR2V5Pc	en	O
+https://t.co/XWOiL4yODj	en	O
+
